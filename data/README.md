@@ -5,8 +5,6 @@
 3.  If the data is too large, upload to google drive or somewhere else and create `download_{filename}.sh` and set the permission correctly
 
 # References for data
-https://www.emojiall.com/zh-hant
-https://zidian.18dao.net/
 
 ```conversations.json```: gpt translation from dev.txt in dc #data  
 ```gpt_gerenate.json```: gpt generation
