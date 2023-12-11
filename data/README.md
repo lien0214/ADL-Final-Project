@@ -6,5 +6,5 @@
 
 # References for data
 
-```conversations.json```: gpt translation from dev.txt in dc #data
+```conversations.json```: gpt translation from dev.txt in dc #data  
 ```gpt_gerenate.json```: gpt generation
