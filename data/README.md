@@ -7,3 +7,6 @@
 # References for data
 https://www.emojiall.com/zh-hant
 https://zidian.18dao.net/
+
+```conversations.json```: gpt translation from dev.txt in dc #data
+```gpt_gerenate.json```: gpt generation
