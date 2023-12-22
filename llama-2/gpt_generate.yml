@@ -1,4 +1,4 @@
-base_model: yentinglin/Taiwan-LLM-13B-v2.0-chat
+base_model: ./Taiwan-LLM-13B-v2.0-chat
 model_type: LlamaForCausalLM
 tokenizer_type: LlamaTokenizer
 is_llama_derived_model: true
@@ -8,11 +8,11 @@ load_in_4bit: true
 strict: false
 
 datasets:
-  - path: ./data/gpt_generate.json
+  - path: ./data/gpt_alpaca.json
     type: alpaca
 dataset_prepared_path:
 val_set_size: 0.05
-output_dir: ./qlora-out
+output_dir: ./output/fft_gpt
 
 adapter: qlora
 lora_model_dir:
@@ -58,6 +58,7 @@ flash_attention: true
 warmup_steps: 10
 evals_per_epoch: 4
 eval_table_size:
+eval_sample_packing: False
 saves_per_epoch: 1
 debug:
 deepspeed:
