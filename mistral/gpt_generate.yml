@@ -8,9 +8,9 @@ load_in_4bit: true
 strict: false
 
 datasets:
-  - path: ./data/preprocessed/gpt_alpaca.json
+  - path: ./data/preprocessed/simplified/gpt_alpaca_train.json
     type: alpaca
-    
+
 dataset_prepared_path: 
 val_set_size: 0
 output_dir: ./mistral/model/gpt_4bit
@@ -18,7 +18,7 @@ output_dir: ./mistral/model/gpt_4bit
 adapter: qlora
 lora_model_dir:
 
-sequence_len: 512
+sequence_len: 2048
 sample_packing: true
 pad_to_sequence_len: true
 
@@ -65,8 +65,8 @@ logging_steps: 1
 xformers_attention:
 flash_attention: true
 
-loss_watchdog_threshold: 5.0
-loss_watchdog_patience: 3
+# loss_watchdog_threshold: 5.0
+# loss_watchdog_patience: 3
 
 warmup_steps: 10
 evals_per_epoch: 4
