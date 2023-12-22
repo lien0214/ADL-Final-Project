@@ -1,4 +1,4 @@
-base_model: yentinglin/Taiwan-LLM-13B-v2.0-chat
+base_model: ./llama/Taiwan-LLM-13B-v2.0-chat
 model_type: LlamaForCausalLM
 tokenizer_type: LlamaTokenizer
 is_llama_derived_model: true
@@ -8,20 +8,20 @@ load_in_4bit: true
 strict: false
 
 datasets:
-  - path: ./data/gpt_generate.json
+  - path: ./data/preprocessed/traditional/gpt_alpaca_train.json
     type: alpaca
 dataset_prepared_path:
-val_set_size: 0.05
-output_dir: ./qlora-out
+val_set_size: 0
+output_dir: ./llama/model/gpt_4bit
 
 adapter: qlora
 lora_model_dir:
 
-sequence_len: 512
+sequence_len: 2048
 sample_packing: true
 pad_to_sequence_len: true
 
-lora_r: 4
+lora_r: 8
 lora_alpha: 16
 lora_dropout: 0.05
 lora_target_modules:
@@ -35,8 +35,8 @@ wandb_name:
 wandb_log_model:
 
 gradient_accumulation_steps: 1
-micro_batch_size: 1
-num_epochs: 2
+micro_batch_size: 2
+num_epochs: 6
 optimizer: paged_adamw_32bit
 lr_scheduler: cosine
 learning_rate: 0.0002
@@ -50,6 +50,7 @@ tf32: false
 gradient_checkpointing: true
 early_stopping_patience:
 resume_from_checkpoint:
+auto_resume_from_checkpoints: false
 local_rank:
 logging_steps: 1
 xformers_attention:
@@ -58,6 +59,7 @@ flash_attention: true
 warmup_steps: 10
 evals_per_epoch: 4
 eval_table_size:
+eval_sample_packing: False
 saves_per_epoch: 1
 debug:
 deepspeed:

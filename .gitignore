@@ -1,3 +1,7 @@
 venv
 Taiwan-LLM-13B-v2.0-chat
-output
+Mistral-7B-v0.1-chinese
+model
+__pycache__
+.gitignore
+last_run_prepared
