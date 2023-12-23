@@ -5,3 +5,5 @@ model
 __pycache__
 .gitignore
 last_run_prepared
+output
+.env
