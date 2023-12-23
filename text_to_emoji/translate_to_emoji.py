@@ -1,5 +1,8 @@
 import json
+import math
 import random
+
+RANDOMNESS = 0.5
 
 with open('../data/char_to_emoji.json', encoding='utf-8') as f:
     char_to_emoji = json.load(f)
@@ -14,10 +17,18 @@ def translate_to_emoji(text):
         
         r = char_to_emoji[char]
         c = ""
-        if r['emoji']:
+        if r['emoji'] and random.random() < RANDOMNESS:
             c = r['emoji'][0]
         else:
-            c = random.choice(r['zhuyin_emoji'])
+            choices = []
+            weights = []
+            for e,w in r['weighted_emojis'].items():
+                choices.append(e)
+                weights.append(math.sqrt(w))
+            if choices and sum(weights)>0:
+                c = random.choices(choices, weights=weights)[0]
+            else:
+                c = random.choice(r['zhuyin_emoji'])
         if last != c:
             result += c
         last = c
