@@ -4,8 +4,7 @@ import torch
 
 def get_prompt(instruction: str) -> str:
     '''Format the instruction as a prompt for LLM.'''
-    return f"USER: {instruction} ASSISTANT:"
-    # return f"### 任务:{instruction}\n### 回复:"
+    return f"你是一個表情符號翻譯助手，請協助將用戶的表情符號翻譯成中文。用戶:🌕🌸 助手:月圓花好。用戶:{instruction} 助手:"
 
 def get_bnb_config() -> BitsAndBytesConfig:
     '''Get the BitsAndBytesConfig.'''
