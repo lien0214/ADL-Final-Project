@@ -1,0 +1,14 @@
+python train.py \
+        --train_file data/train.jsonl \
+        --max_source_length 1024 \
+        --source_prefix "Summarize: " \
+        --model_name_or_path google/mt5-small \
+        --text_column "maintext" \
+        --summary_column "title" \
+        --per_device_train_batch_size 4 \
+        --learning_rate 2e-5 \
+        --num_train_epochs 0 \
+        --gradient_accumulation_steps 1 \
+        --output_dir "models/mymodel/$i" \
+        --with_tracking \
+        --checkpointing_steps "epoch" \
