@@ -6,11 +6,13 @@ from tqdm import tqdm
 
 
 MAX_LENGTH = 512
+TO_EMOJI = True
+
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--base_model_path",
     type=str,
-    default="5epochs-2batch-to-emoji/checkpoint-2500",
+    default="../../ADL/final/train/15epochs-4batch-to-chinese/checkpoint-10000",
     help="Path to the base model."
 )
 parser.add_argument(
