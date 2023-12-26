@@ -10,7 +10,7 @@ import argparse
 wandb.init(project='my_mt5_project')
 parser = argparse.ArgumentParser()
 parser.add_argument("--max_length", type=int, default=192)
-parser.add_argument("--epoch", type=int, default=15)
+parser.add_argument("--epoch", type=int, default=10)
 parser.add_argument("--batch_size", type=int, default=4)
 parser.add_argument("--to_emoji", action='store_true')
 args = parser.parse_args()
