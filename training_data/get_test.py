@@ -1,6 +1,6 @@
 import json
 
-with open('test_mix.json', encoding='utf-8') as f:
+with open('test.json', encoding='utf-8') as f:
     test = json.load(f)
 
 with open('train_mix.json', encoding='utf-8') as f:
@@ -49,7 +49,7 @@ for id in test_ids:
     t = {"id": id}
     for g in gpt:
         if g['id'] == id:
-            t['chinse'] = g['chinese']
+            t['chinese'] = g['chinese']
             t["emoji-gpt"] = g['emoji']
             break
     
