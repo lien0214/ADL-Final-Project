@@ -1,0 +1,4076 @@
+[
+    {
+        "id": 3164,
+        "chinese": "什麼時候必須到機場？",
+        "emoji": "❓🛫⏰",
+        "type": "gpt"
+    },
+    {
+        "id": 1564,
+        "chinese": "這是非常好的。",
+        "emoji": "👌",
+        "type": "gpt"
+    },
+    {
+        "id": 3382,
+        "chinese": "樹林裡沒有食物。",
+        "emoji": "🌳❌🍎",
+        "type": "gpt"
+    },
+    {
+        "id": 3305,
+        "chinese": "這是一家很受歡迎的餐廳，不是嗎？",
+        "emoji": "🌟🍽️👍❓",
+        "type": "gpt"
+    },
+    {
+        "id": 1951,
+        "chinese": "還有什麼？",
+        "emoji": "❓",
+        "type": "gpt"
+    },
+    {
+        "id": 3383,
+        "chinese": "還沒有。",
+        "emoji": "🚫📞",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🙅‍♂️🤓☯🈁👍🏬👆🤔❔💸🤿🉐。",
+        "chinese": "我不知道這家店是怎麼賺錢的。",
+        "id": 405,
+        "type": "algorithm"
+    },
+    {
+        "id": 572,
+        "chinese": "是的。滑得很有趣。",
+        "emoji": "👍🛷😄",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🔙✔🗣🉐🈶▪🙅‍♂️📖👚。",
+        "chinese": "我還是覺得有點不舒服。",
+        "id": 1214,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👍❔，🙋‍♂️🤔🤟🇧🧔🏻🥷🤕🐵。",
+        "chinese": "好吧，我想你必須忍受它。",
+        "id": 354,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨🏙🔟❔🏋👪？",
+        "chinese": "他是什麼種族？",
+        "id": 3153,
+        "type": "algorithm"
+    },
+    {
+        "id": 3085,
+        "chinese": "謝謝你讓我知道。",
+        "emoji": "🙏📢",
+        "type": "gpt"
+    },
+    {
+        "emoji": "1️⃣🈴😢🤕🉐🗓🔛🖥📁⏩⛹🎇🏮📏📺👍🉐🔙✔👎🉐？",
+        "chinese": "一個悲傷的歷史事件被拍成喜劇是好的還是壞的？",
+        "id": 2856,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "😦，✔🉐，🤟👨‍🍳➡🐦。",
+        "chinese": "哦，是的，你做到了。",
+        "id": 89,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🔢3️⃣，👨🙅‍♂️✔24🐤⏲🏃🍑🉐。",
+        "chinese": "第三，它不是24小時運行的。",
+        "id": 2653,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🉐🧍⚖👤🏃🗓💐📍🗺💳🕊🉐👤⏳⛴🧳🚶⬆。",
+        "chinese": "我們的立法者將其花在世界各地的頭等艙旅行上。",
+        "id": 3678,
+        "type": "algorithm"
+    },
+    {
+        "id": 3709,
+        "chinese": "我想不到。",
+        "emoji": "🤔🚫",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍❔，🤟➡🔟❔🙅‍♂️❔？",
+        "chinese": "好吧，你為什麼不呢？",
+        "id": 3556,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟👁➡🤟🉐🗄👶🐎？",
+        "chinese": "你看過你的桌子嗎？",
+        "id": 2800,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🎯📝🛫📨👥🧒🐏👨‍🏭🈵。",
+        "chinese": "準備起來也同樣容易。",
+        "id": 726,
+        "type": "algorithm"
+    },
+    {
+        "id": 4629,
+        "chinese": "唔。我只有一個最好的朋友。",
+        "emoji": "👥❤️👫1️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "➡🍏🐵🙅‍♂️✔🈴😍👉❔🙅‍♂️🉑🌧📐🉐🗣，🙋‍♂️🤝🏮🎉🐵。",
+        "chinese": "如果它不是總是那麼不可預測的話，我會喜歡它。",
+        "id": 4282,
+        "type": "algorithm"
+    },
+    {
+        "id": 2219,
+        "chinese": "它有大約300萬人口。",
+        "emoji": "🏙️3️⃣0️⃣0️⃣👥",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🫴👉1️⃣🍂🆕⚡🧠。",
+        "chinese": "我需要一台新電腦。",
+        "id": 460,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨🆘🙅‍♂️💪💰🕸🐎？",
+        "chinese": "他就不能上網嗎？",
+        "id": 4219,
+        "type": "algorithm"
+    },
+    {
+        "id": 592,
+        "chinese": "他們仍然製作那樣的電影。",
+        "emoji": "👥🎥🔄✨",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🧾⚖，🖥🌭😰〰 11% 🉐🪨👀💐👋🧳🚶🏙🌳🇿⬆。",
+        "chinese": "據稱，市長僅將 11% 的時間花在履行城市職責上。",
+        "id": 3755,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⚖👍🏻👨‍👩‍👧‍👦🗣🏺👶🛅🈵➡🈳。",
+        "chinese": "藝術家說罐子既滿又空。",
+        "id": 2789,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⏱📍➕📍⬇🌧🐎？",
+        "chinese": "現在正在下雨嗎？",
+        "id": 1157,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⏱📍🤟📍🤔。",
+        "chinese": "現在你在想。",
+        "id": 2269,
+        "type": "algorithm"
+    },
+    {
+        "id": 1243,
+        "chinese": "我會保留我的收據和我的槍。",
+        "emoji": "💼📃🔫",
+        "type": "gpt"
+    },
+    {
+        "id": 1627,
+        "chinese": "是的。兩架美軍戰鬥機跟蹤他一個小時後，他降落在高速公路上。",
+        "emoji": "✈️🇺🇸🕒🛫🛬🛣️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🤔👵🙋‍♂️👨‍🍳🔟❔？",
+        "chinese": "你想讓我做什麼？",
+        "id": 3899,
+        "type": "algorithm"
+    },
+    {
+        "id": 183,
+        "chinese": "它是根據一個離婚男人和他年幼的兒子的真實故事改編的。",
+        "emoji": "🎥👨‍👦📖🔍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟📷➡🔚👶🐎？",
+        "chinese": "你照過鏡子嗎？",
+        "id": 3749,
+        "type": "algorithm"
+    },
+    {
+        "id": 3995,
+        "chinese": "我很想這個週末去看電影。",
+        "emoji": "😌📅🎥🍿",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🐵🚪🥤👨🏻‍⚕️👄🚬👁🛫📨👿🤪。",
+        "chinese": "他們吸一口煙看起來很傻。",
+        "id": 3720,
+        "type": "algorithm"
+    },
+    {
+        "id": 519,
+        "chinese": "國家正在轉向數位電視。",
+        "emoji": "📺🌐📡",
+        "type": "gpt"
+    },
+    {
+        "id": 4130,
+        "chinese": "告訴她我打招呼了。",
+        "emoji": "🙋‍♂️👋",
+        "type": "gpt"
+    },
+    {
+        "chinese": "女職員在電腦前工作",
+        "emoji": "👩‍💻🖥️💼",
+        "id": 3118,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🦹🏮🎉🌧⏪🌃🉐🐏👶。",
+        "chinese": "我最喜歡雨後夜晚的樣子。",
+        "id": 3579,
+        "type": "algorithm"
+    },
+    {
+        "id": 1399,
+        "chinese": "你知道他想要哪一件嗎？",
+        "emoji": "🤔🎁👦❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🛍👚👫⬆⭕🎂🐦👶。",
+        "chinese": "黛布拉上週生了孩子。",
+        "id": 422,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "😦，👀🉐，🙋‍♂️📝🌥🎗🐵🚶🐦🗄🏠。👨🤲🙋‍♂️👁1️⃣🏹👨✔➕🏮🎉🉐。",
+        "chinese": "哦，是的，我昨天帶他去了那裡。他給我看了一張他真正喜歡的。",
+        "id": 750,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "讓我們開會討論",
+        "emoji": "👥📊",
+        "id": 2646,
+        "type": "gpt"
+    },
+    {
+        "id": 2325,
+        "chinese": "究竟是什麼？",
+        "emoji": "🧐🤔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🚪✔🉐🦅👍📍🌅🎠🤹‍♂️。",
+        "chinese": "我們真的應該再出去玩。",
+        "id": 343,
+        "type": "algorithm"
+    },
+    {
+        "id": 1247,
+        "chinese": "附近有一個非常漂亮的公園。",
+        "emoji": "📍🌳🌼🏞️",
+        "type": "gpt"
+    },
+    {
+        "id": 4591,
+        "chinese": "確實如此。",
+        "emoji": "✅👍",
+        "type": "gpt"
+    },
+    {
+        "id": 3338,
+        "chinese": "這個週末你在做什麼？",
+        "emoji": "📅🤔🏠🚶‍♂️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "bluedog123 👩‍🔬📍🎀⬆。🧑🇧🫴🤲🙋‍♂️🏙、🌏🕊📮🔢🏑👍。",
+        "chinese": "bluedog123 就在街上。您必須給我城市、州和郵遞區號。",
+        "id": 2504,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙅‍♂️。👨💐🧾☀️👨‍👩‍👧‍👦🍻。",
+        "chinese": "不。它花費太多錢。",
+        "id": 2840,
+        "type": "algorithm"
+    },
+    {
+        "id": 4153,
+        "chinese": "我們應該出去玩一段時間。",
+        "emoji": "🚗🎉6️⃣",
+        "type": "gpt"
+    },
+    {
+        "id": 1715,
+        "chinese": "它讓我入睡。",
+        "emoji": "😴💤🎵",
+        "type": "gpt"
+    },
+    {
+        "emoji": "❓👤🙋‍♂️🚪🉑❕🚶🕊🔲。",
+        "chinese": "或者我們可以去湖邊。",
+        "id": 4179,
+        "type": "algorithm"
+    },
+    {
+        "id": 4293,
+        "chinese": "你決定如何投票了嗎？",
+        "emoji": "🗳️❓🤔😄",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🌃🍽😋💴💐🉐🐟！",
+        "chinese": "我們晚餐吃新鮮的魚！",
+        "id": 1877,
+        "type": "algorithm"
+    },
+    {
+        "id": 2574,
+        "chinese": "必然是。",
+        "emoji": "👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "5G⏭🔗🌪🍜🙅‍♂️🏢，❔🎂🚦✉️🏃🌡",
+        "chinese": "5G網絡全面部署，提升通信速度",
+        "id": 1669,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "📍👔🔝💰🔭，🉑🪑👁➡🏙🉐😫🇨🇳🏞🗿📦🔭⬛🖇🧽🙅‍♂️🔪🉐⛰💓。",
+        "chinese": "在山頂上遠眺，可以看到城市的繁華景象和遠方連綿不斷的山脈。",
+        "id": 1019,
+        "type": "algorithm"
+    },
+    {
+        "id": 2247,
+        "chinese": "不管是什麼，都很痛。",
+        "emoji": "❌🤔💔",
+        "type": "gpt"
+    },
+    {
+        "id": 2033,
+        "chinese": "一定很孤獨吧。",
+        "emoji": "🐈🧒",
+        "type": "gpt"
+    },
+    {
+        "id": 2516,
+        "chinese": "這不好。",
+        "emoji": "😞🚫",
+        "type": "gpt"
+    },
+    {
+        "id": 2969,
+        "chinese": "耐心一點。樂趣並不是每五分鐘就會出現一次。",
+        "emoji": "⏳😃🎉5️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🍓🔟❔，🀅🎂🔟❔🖥🐦？",
+        "chinese": "沒什麼，發生什麼事了？",
+        "id": 2736,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "攻乎異端，斯害也已",
+        "emoji": "🥋🚫👥👉💔🚫",
+        "id": 831,
+        "type": "gpt"
+    },
+    {
+        "id": 295,
+        "chinese": "它通過檢查。",
+        "emoji": "🔍✅",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🙅‍♂️✊📷✉️🙋‍♂️🚪🀢🈶👁➡🧑🕊🥶🎁。",
+        "chinese": "我不敢相信我們沒有看到任何動物。",
+        "id": 2582,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐇👶👦👂🌹🙅‍♂️🧹🥜🧱。🛒💰🔢💺🌥🧵。",
+        "chinese": "兔子的耳朵不夠堅固。購買數位天線。",
+        "id": 9,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁🕊⚡🎞📛🚲🩺🛫📨❗🗣⚰🈶🇮🇹🤔🉐，🙋‍♂️🈶🈳1️⃣⏲👉👁。",
+        "chinese": "這個電影名字聽起來感覺蠻有意思的，我有空一定要看看。",
+        "id": 3241,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟✔🎫🔣？🙋‍♂️⬅📨🈚🈶🩺➡🈁🤱🉐🖥💑。",
+        "chinese": "你確定嗎？我從來沒有聽過這樣的事情。",
+        "id": 278,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "3️⃣👜🔟❔？",
+        "chinese": "三包什麼？",
+        "id": 3301,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🦪🉐🈚🔟❔，🤟？",
+        "chinese": "真的沒什麼，你？",
+        "id": 3662,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "江山美人，一醉方休。",
+        "emoji": "🌊⛰️👩‍🦰🍷☑️",
+        "id": 252,
+        "type": "gpt"
+    },
+    {
+        "id": 1132,
+        "chinese": "也許他們把它拖走了。",
+        "emoji": "🚙🔗🏃‍♂️",
+        "type": "gpt"
+    },
+    {
+        "chinese": "樂團的指揮有著非凡的才華",
+        "emoji": "🎵👨‍👨‍🎨🌟",
+        "id": 3265,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔔🤟☠⏪🚶🌥🍬🔟，👨🚪🤝🤲🤟🍺⌛🕊🍌🚬。",
+        "chinese": "當你死後去天堂時，他們會給你啤酒或香菸。",
+        "id": 3271,
+        "type": "algorithm"
+    },
+    {
+        "id": 4277,
+        "chinese": "進入山區。",
+        "emoji": "🏞️🚗",
+        "type": "gpt"
+    },
+    {
+        "id": 3018,
+        "chinese": "他可能會說我很好。",
+        "emoji": "🤔🗣️👍",
+        "type": "gpt"
+    },
+    {
+        "id": 1001,
+        "chinese": "也許下輩子你會擁有藍眼睛。",
+        "emoji": "🔮🔄👀❄️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔😞➡，🥚🤟🔝👓🚶👁🏬🎞🐦🐎？",
+        "chinese": "真難過，但你最近去看電影了嗎？",
+        "id": 746,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨📅🌥🔔👨‍🍼👩🎗📎👨‍👩‍👧‍👦。",
+        "chinese": "他昨天想把它帶回家。",
+        "id": 342,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🈳😀1️⃣📓🖊🖥📓。",
+        "chinese": "我需要一本筆記本。",
+        "id": 2555,
+        "type": "algorithm"
+    },
+    {
+        "id": 4632,
+        "chinese": "你喜歡它什麼？",
+        "emoji": "👂🕊️💭❓💡",
+        "type": "gpt"
+    },
+    {
+        "id": 4400,
+        "chinese": "你真的愛我嗎？",
+        "emoji": "❓🌹🤔💑",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈁✔👿👨‍👩‍👧‍👦🏹📅。",
+        "chinese": "這是很多工作。",
+        "id": 1488,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔🉐，👨✔⏲。",
+        "chinese": "是的，它確實。",
+        "id": 989,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "是什麼類型的影片呀！我喜歡看喜劇，愛情劇還有科幻劇。",
+        "emoji": "🎬📽️❤️🤣👽",
+        "id": 1607,
+        "type": "gpt"
+    },
+    {
+        "id": 3246,
+        "chinese": "你可能想買一雙。",
+        "emoji": "👞🛒",
+        "type": "gpt"
+    },
+    {
+        "id": 1348,
+        "chinese": "真的沒什麼。",
+        "emoji": "🤷‍♂️👌",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🪥👶，🪥👶。🤮，🥔。",
+        "chinese": "刷子，刷子。吐，吐。",
+        "id": 3368,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙇⚽🕊7️⃣🛐",
+        "chinese": "請求或祈禱",
+        "id": 1323,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "哪個啊？",
+        "emoji": "❓🎬",
+        "id": 1817,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🏮🎉👁▪⚡🎞🏍？",
+        "chinese": "喜歡看點電影麼？",
+        "id": 3377,
+        "type": "algorithm"
+    },
+    {
+        "id": 3828,
+        "chinese": "感謝他和所有在第二次世界大戰中服役的士兵。",
+        "emoji": "🙏👴🎖️💂‍♂️",
+        "type": "gpt"
+    },
+    {
+        "id": 4468,
+        "chinese": "電影聽起來不錯。",
+        "emoji": "🎬👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️👁🐦8️⃣2️⃣。",
+        "chinese": "我看了八次。",
+        "id": 623,
+        "type": "algorithm"
+    },
+    {
+        "id": 3094,
+        "chinese": "不，謝謝，我就等一下。",
+        "emoji": "❌🙏🚶‍♂️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👀✔🉐🐎？🙋‍♂️🛀🔢⏲⌛🙋‍♂️🌐📻➡👩🉐🤙🙇🐦。",
+        "chinese": "是對的嗎？我早些時候已經收到她的邀請了。",
+        "id": 2550,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟💰🐦👨‍👩‍👧‍👦1️⃣💰？",
+        "chinese": "你買了多少錢？",
+        "id": 291,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈶🔢🧑🚫✔➡🐦💺2️⃣👨‍🍳。",
+        "chinese": "有些人只是為了做而做。",
+        "id": 2087,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🎂🐣😧😞。",
+        "chinese": "生活艱難。",
+        "id": 4256,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "↪🤟💪📝🔟❔？",
+        "chinese": "但你能做什麼呢？",
+        "id": 781,
+        "type": "algorithm"
+    },
+    {
+        "id": 650,
+        "chinese": "味道真好。",
+        "emoji": "👃🌹",
+        "type": "gpt"
+    },
+    {
+        "id": 1801,
+        "chinese": "不，就像一個優秀的業餘高爾夫球手。",
+        "emoji": "🚫🏌️‍♂️⛳🏌️‍♂️",
+        "type": "gpt"
+    },
+    {
+        "id": 1058,
+        "chinese": "那已經很舊了。",
+        "emoji": "🕰️👴",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️📷✉️🐵🗓➕🤝👨‍👩‍👧‍👦🙋‍♂️👉🙇。",
+        "chinese": "我相信她今天會給我邀請。",
+        "id": 2406,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙇👩🌅🚶😋🍚。",
+        "chinese": "請她出去吃飯。",
+        "id": 819,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁👬🔟❔📴🎗❔？",
+        "chinese": "這有什麼關係呢？",
+        "id": 2151,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我知道她，長的還挺好看的",
+        "emoji": "👀👩👌",
+        "id": 2040,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👿👁🔓🐵😮，👩🔙✝👨‍🎤🐦1️⃣🙅‍♂️⚡✔🎭，🈚♍龍🤌📝🍩，💓🧷👍👁，🙋‍♂️👿🏮🎉。",
+        "chinese": "很瞭解他呀，他還主演了一部電視劇，吳楚龍年作品，特別好看，我很喜歡。",
+        "id": 1926,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐱😸❤😋🎣",
+        "chinese": "貓咪愛吃魚",
+        "id": 4338,
+        "type": "algorithm"
+    },
+    {
+        "id": 1720,
+        "chinese": "他為什麼要那樣做？",
+        "emoji": "🤔👤🏀❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🔪🌎🗣，🈁✔🙋‍♂️🔝🏮🎉🉐📕。",
+        "chinese": "確切地說，這是我最喜歡的課。",
+        "id": 3237,
+        "type": "algorithm"
+    },
+    {
+        "id": 1330,
+        "chinese": "我看了十二遍。",
+        "emoji": "📖🎬1️⃣2️⃣",
+        "type": "gpt"
+    },
+    {
+        "id": 573,
+        "chinese": "你的右手已經磨損了。停止使用它這麼多。",
+        "emoji": "🤚💥⬇️🚫",
+        "type": "gpt"
+    },
+    {
+        "id": 4538,
+        "chinese": "我不明白一些事。",
+        "emoji": "🤔❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🦢，🈵✔🔓。",
+        "chinese": "哦，全世界。",
+        "id": 2342,
+        "type": "algorithm"
+    },
+    {
+        "id": 4316,
+        "chinese": "不，但那是主題的隨機改變。",
+        "emoji": "❌🔄🗣️🎲",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟👥🤝➡🙋‍♂️👨‍🍳👬🐏🉐🖥。",
+        "chinese": "你也會為我做同樣的事。",
+        "id": 1338,
+        "type": "algorithm"
+    },
+    {
+        "id": 601,
+        "chinese": "我不這麼認為。完成學業後，我將有足夠的錢去上大學。",
+        "emoji": "🚫💭💰🎓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨🉐☑❤️🚻➡磐🪨，🙅‍♂️❄👋",
+        "chinese": "他的決心堅如磐石，不容動搖",
+        "id": 3571,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️📆🗂1️⃣📏🔟🚻🆘🤝🈁🐏👨‍🍳。",
+        "chinese": "我每隔一段時間就會這樣做。",
+        "id": 2187,
+        "type": "algorithm"
+    },
+    {
+        "id": 3487,
+        "chinese": "但她長什麼樣子呢？",
+        "emoji": "🚺❓👁️👩",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🤲🙋‍♂️🉐👨‍🍼♀🎫📖🐦。",
+        "chinese": "我給我的父母訂閱了。",
+        "id": 2940,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🀧⭕🔙🤝🈶➡1️⃣🏟👁🌅。",
+        "chinese": "下週還會有另一場演出。",
+        "id": 296,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🔟❔👥🈚👁☯。",
+        "chinese": "我什麼也沒看到。",
+        "id": 645,
+        "type": "algorithm"
+    },
+    {
+        "id": 1103,
+        "chinese": "你有什麼類型的車？",
+        "emoji": "🚗❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈚🪨❔👨🚪⚖🤓➡🤳🌊🉐🥀🍚🌟？",
+        "chinese": "為什麼他們稱之為美好的舊時光？",
+        "id": 3790,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "國際外交會談取得重要進展",
+        "emoji": "🌐🏛️🤝✅",
+        "id": 4339,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔟❔〰🥧？",
+        "chinese": "什麼流派？",
+        "id": 3245,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🩺➡👍👨‍🚒ℹ🐦🐎？",
+        "chinese": "你聽到好消息了嗎？",
+        "id": 2635,
+        "type": "algorithm"
+    },
+    {
+        "id": 1913,
+        "chinese": "當然不是！他是家人。",
+        "emoji": "❌🤔💑👨‍👩‍👦",
+        "type": "gpt"
+    },
+    {
+        "id": 3093,
+        "chinese": "但同樣的事情日復一日地變得陳舊。",
+        "emoji": "🔄📅🚶",
+        "type": "gpt"
+    },
+    {
+        "id": 1171,
+        "chinese": "你做完你的功課了嗎？",
+        "emoji": "😌📚❓",
+        "type": "gpt"
+    },
+    {
+        "id": 566,
+        "chinese": "第三個故事是什麼？",
+        "emoji": "📚3️⃣❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️📍🈁🏠❗🏴‍☠️⛑🈵。",
+        "chinese": "我在這裡感到安全。",
+        "id": 4052,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙅‍♂️🉑👫⚠🐶🎁。",
+        "chinese": "不允許攜帶寵物。",
+        "id": 2222,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "好的，有時間可以看看。",
+        "emoji": "👍⌚👀",
+        "id": 532,
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🉐，↪🇿🈶💩🌀🉐🎫。",
+        "chinese": "是的，但只有便宜的票。",
+        "id": 411,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "新興市場經濟快速增長，吸引外資",
+        "emoji": "🆕🌍💹📈💰🧲",
+        "id": 2328,
+        "type": "gpt"
+    },
+    {
+        "id": 3501,
+        "chinese": "我喜歡它，到目前為止。我的課現在很好。",
+        "emoji": "👍😊🏫📚✅",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️❕➡📺⬇⭕☀️。",
+        "chinese": "我以為是下週日。",
+        "id": 476,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👩🈶👨‍👩‍👧‍👦🌲？",
+        "chinese": "她有多高？",
+        "id": 351,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我昨天在音樂會上看到了一位非常有才華的年輕鋼琴家，他的表演簡直令人驚艷。",
+        "emoji": "🎶🎹👀🌟🎵🤩",
+        "id": 3300,
+        "type": "gpt"
+    },
+    {
+        "id": 2925,
+        "chinese": "我不是多管閒事，這只是一個問題。",
+        "emoji": "🚫🗣️📋❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "📆🌥➕🎈🔥🌭，🧅🌟🔆😉。",
+        "chinese": "每天天氣炎熱，陽光明媚。",
+        "id": 2802,
+        "type": "algorithm"
+    },
+    {
+        "id": 3818,
+        "chinese": "我兩年前離婚了。",
+        "emoji": "📅❌🤵👰",
+        "type": "gpt"
+    },
+    {
+        "id": 4601,
+        "chinese": "我會輕輕但堅定地摩擦。",
+        "emoji": "👐🔍💪",
+        "type": "gpt"
+    },
+    {
+        "chinese": "花開富貴",
+        "emoji": "🌸💰",
+        "id": 2561,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🤔🤟👁➡🐦👿👨‍👩‍👧‍👦🙅‍♂️👬🉐🐕。",
+        "chinese": "我猜你看到了很多不同的狗。",
+        "id": 3025,
+        "type": "algorithm"
+    },
+    {
+        "id": 1650,
+        "chinese": "恐怕不是。",
+        "emoji": "🚫",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🧑👊🏬🖼🌎👨‍✈️🎵✔🔟❔？",
+        "chinese": "您打電話的原因是什麼？",
+        "id": 3532,
+        "type": "algorithm"
+    },
+    {
+        "id": 3472,
+        "chinese": "儘管如此，它還是比佛羅裡達州更安全。",
+        "emoji": "🌴🌀🤔👍",
+        "type": "gpt"
+    },
+    {
+        "id": 3111,
+        "chinese": "我喜歡政治漫畫。",
+        "emoji": "🤓📖🗞️🎨",
+        "type": "gpt"
+    },
+    {
+        "chinese": "電子琴可以模擬各種樂器的聲音",
+        "emoji": "🎹🔊🎶",
+        "id": 3672,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👥🉑👩🚪🤝🤲🙋‍♂️🚪⏳🈁❔🍺🉐🈚🧾🍹👁。",
+        "chinese": "也許他們會給我們等這麼久的免費飲料。",
+        "id": 4067,
+        "type": "algorithm"
+    },
+    {
+        "id": 3839,
+        "chinese": "我怎樣才能證明呢？",
+        "emoji": "🤔❓🔍",
+        "type": "gpt"
+    },
+    {
+        "id": 4189,
+        "chinese": "我經常這樣做。",
+        "emoji": "🕒🎸🎶",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🤼‍♂️📍🤔👐🚗🚶🥈✌😞👉⭕。",
+        "chinese": "我正在考慮開車去亞利桑那州。",
+        "id": 4199,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈶🧑🚣🚢➖⛴🐘🀂🧅。",
+        "chinese": "有人划船橫渡大西洋。",
+        "id": 165,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🚡🫴🤙🉐🇿✔🈵🧠✌，2️⃣🤟🫂🈶🐵。",
+        "chinese": "所需要的只是意志力，而你擁有它。",
+        "id": 283,
+        "type": "algorithm"
+    },
+    {
+        "id": 1737,
+        "chinese": "加上零件只需 20 美元。",
+        "emoji": "🔧💲2️⃣0️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "📆🌥🌅🍊🙋‍♂️🏙🤝📝⚪🧘‍♂️",
+        "chinese": "每天早晨我都會做瑜伽",
+        "id": 33,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈵⚽📿✍🐘🤝🀅⌚🆕1️⃣⏳📝💪✋🤖",
+        "chinese": "全球科技大會發表新一代智能手機",
+        "id": 1285,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇿👉🐔👶🏻📏。",
+        "chinese": "只有幾英尺。",
+        "id": 4362,
+        "type": "algorithm"
+    },
+    {
+        "id": 2050,
+        "chinese": "你今天怎麼樣？",
+        "emoji": "🤔👋",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👉✔⁉🈚⏲⏪？",
+        "chinese": "那是什麼時候？",
+        "id": 3485,
+        "type": "algorithm"
+    },
+    {
+        "id": 1123,
+        "chinese": "我不得不說貝比魯斯。",
+        "emoji": "👶👄🐄👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️👿🏮🎉🈁🚶🤥👶🉐🧭👨‍🎤😦，💹。",
+        "chinese": "我很喜歡這部片子的導演哦，帥。",
+        "id": 1920,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🤓➡❓🎨🗣❔？",
+        "chinese": "你知道如何繪畫嗎？",
+        "id": 1295,
+        "type": "algorithm"
+    },
+    {
+        "id": 418,
+        "chinese": "這看起來是一張不錯的桌子。",
+        "emoji": "👀🪑❤️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈁✔🖥⏲。",
+        "chinese": "這是事實。",
+        "id": 2797,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🏠😩·🧱👂，👨🏙1990📅🌅🎂🉐🤴🎤😦，🙋‍♂️👿🏮🎉👩。",
+        "chinese": "里奧·比爾，他是1990年出生的帥哥哦，我很喜歡他。",
+        "id": 3612,
+        "type": "algorithm"
+    },
+    {
+        "id": 789,
+        "chinese": "除非我們買不起！",
+        "emoji": "💸❌🛒🤔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️➕🤹‍♂️✍👨‍🍳❓📁🖥。🙋‍♂️➡🥱。",
+        "chinese": "我正忙著做某件事。我道歉。",
+        "id": 580,
+        "type": "algorithm"
+    },
+    {
+        "id": 1298,
+        "chinese": "哦，是的。大約有300人在那裡向我們致敬。",
+        "emoji": "😮👥🎉3️⃣0️⃣0️⃣🙏",
+        "type": "gpt"
+    },
+    {
+        "id": 3100,
+        "chinese": "損壞程度大嗎？",
+        "emoji": "🤔🚗💥❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍❔，👋👀。",
+        "chinese": "好吧，再見。",
+        "id": 2202,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🤝🕊🤟🤸‍♂️💏🗣🈁🚻🖥。",
+        "chinese": "我會和你父親談談這件事。",
+        "id": 3175,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "教師正在教學生",
+        "emoji": "🧑‍🏫📚👨‍🎓",
+        "id": 150,
+        "type": "gpt"
+    },
+    {
+        "emoji": "😦，🙅‍♂️，✔！",
+        "chinese": "哦，不，不是！",
+        "id": 3644,
+        "type": "algorithm"
+    },
+    {
+        "id": 164,
+        "chinese": "你上大學嗎？",
+        "emoji": "🏫🎓",
+        "type": "gpt"
+    },
+    {
+        "id": 4152,
+        "chinese": "這週五我要舉辦一個聚會。",
+        "emoji": "📅🎉5️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🙅‍♂️🉐🙅‍♂️。🙋‍♂️👿🤔📿🤟。",
+        "chinese": "我不得不。我很想念你。",
+        "id": 3825,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "8️⃣▪🀄。",
+        "chinese": "八點鐘。",
+        "id": 3569,
+        "type": "algorithm"
+    },
+    {
+        "id": 3518,
+        "chinese": "粉刺很糟。",
+        "emoji": "🌸🔴🚫😣",
+        "type": "gpt"
+    },
+    {
+        "chinese": "女科學家在研究基因",
+        "emoji": "👩‍🔬🧬🔬",
+        "id": 2110,
+        "type": "gpt"
+    },
+    {
+        "id": 4099,
+        "chinese": "那太糟了。我很樂意給你英文課的作業。",
+        "emoji": "😔📚🇬🇧📝👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "➕📕。🤳🔔🙋‍♂️🦝🚬👩🏙🔜🤓☯。",
+        "chinese": "有點。每當我偷偷抽煙她都會知道。",
+        "id": 2216,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👀👁🏦🤖。",
+        "chinese": "查看銀器。",
+        "id": 1888,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "📏🎁🛌🏕💧😋🤗",
+        "chinese": "植物被露水滋潤",
+        "id": 22,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁👩👰🙅‍♂️🧮😲💐，↪✔➕🕊♀。",
+        "chinese": "這姑娘不算驚豔，但是又個性。",
+        "id": 1138,
+        "type": "algorithm"
+    },
+    {
+        "id": 3777,
+        "chinese": "我是保母。",
+        "emoji": "👩‍👦👩‍🔬",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👉🤟💺🐦🔟❔？",
+        "chinese": "那你做了什麼？",
+        "id": 2548,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🏬🧠☀️🆒🐦。",
+        "chinese": "電腦太酷了。",
+        "id": 1882,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🫴😀👊🚲📨💸⏩。",
+        "chinese": "我需要打字來賺錢。",
+        "id": 3952,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "1️⃣🌅🚣☑，👩🚪🆘🤝🚶🚲🤲🉐🛣。",
+        "chinese": "一旦當選，他們就會走自己的路。",
+        "id": 4333,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "💺🕊⚛🥽🏙👿🫀。",
+        "chinese": "座位和窗戶都很髒。",
+        "id": 59,
+        "type": "algorithm"
+    },
+    {
+        "id": 3147,
+        "chinese": "一百！",
+        "emoji": "💯",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍❔，🙋‍♂️🤔➡🍏🐵✔🉐🧝🆘🐦，🙋‍♂️🤝💱1️⃣🔢🙅‍♂️👬🉐🀀🀂。",
+        "chinese": "好吧，我想如果它真的變舊了，我會換一些不同的東西。",
+        "id": 4671,
+        "type": "algorithm"
+    },
+    {
+        "id": 1722,
+        "chinese": "他會給你一張眼鏡處方。",
+        "emoji": "👨‍⚕️👓📜",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🀧☀️🉐🌊🏖⬆，📜🚪📍🗡🏖⬆曬☀️🐏，🔙👶🚪📍🌊🔲🤹‍♂️💧，💑🚪🎊🙅‍♂️📍🌊🧵⬆。🌊🚈🍶⛹👊✍🌊🔲，🌊🐦📍🌥🈳🏋✈🪁，1️⃣🔪🏙👉❔🍎🤫😁✌。",
+        "chinese": "夏日的海灘上，人們在沙灘上曬太陽，孩子們在海邊玩水，情侶們散步在海岸線上。海浪輕輕拍打著岸邊，海鷗在天空中翱翔，一切都那麼平靜舒適。",
+        "id": 4453,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👉🙇✉⬆✍🌃⬆ 8:00 👐👼",
+        "chinese": "邀請函上寫著晚上 8:00 開始",
+        "id": 4556,
+        "type": "algorithm"
+    },
+    {
+        "id": 404,
+        "chinese": "你怎麼了？",
+        "emoji": "🤔❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🀦❌📛🌥👐👼。",
+        "chinese": "春假明天開始。",
+        "id": 4237,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "是2008年上映的那一部嗎？",
+        "emoji": "🎬2️⃣0️⃣0️⃣8️⃣❓",
+        "id": 1414,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👌👨‍🎨↔👁↔👆🦪🥣👩‍🎨👨‍🎨🍩",
+        "chinese": "藝術展覽展示珍稀藝術品",
+        "id": 347,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️👿❗🤖。",
+        "chinese": "我很感激。",
+        "id": 1930,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙏，👁➡🔆🔣🙋‍♂️🆘👬🤔👁🉐🔌👋。",
+        "chinese": "恩，看到名字我就有想看的衝動。",
+        "id": 2756,
+        "type": "algorithm"
+    },
+    {
+        "id": 445,
+        "chinese": "穿上外套，繫上領帶。",
+        "emoji": "🧥👔",
+        "type": "gpt"
+    },
+    {
+        "id": 1916,
+        "chinese": "然後我們去了一家爵士俱樂部。",
+        "emoji": "🎷🎶🕺",
+        "type": "gpt"
+    },
+    {
+        "emoji": "💑🌥⌛🉐⭐🎛💓🧷🤳",
+        "chinese": "晴天後的星空特別美",
+        "id": 1194,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇳，🙋‍♂️🤔🈁🆘✔👨🈁❔👨‍🍳🉐⚛🎵。",
+        "chinese": "嗯，我想這就是他這麼做的原因。",
+        "id": 3528,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "↪🐘👨‍👩‍👧‍👦🔢颶🌬✔❔☣🉐。",
+        "chinese": "但大多數颶風是無害的。",
+        "id": 828,
+        "type": "algorithm"
+    },
+    {
+        "id": 439,
+        "chinese": "我無法閱讀我的書。",
+        "emoji": "🚫📖👀",
+        "type": "gpt"
+    },
+    {
+        "id": 674,
+        "chinese": "你認為我應該退出遊戲。",
+        "emoji": "🚫🎮",
+        "type": "gpt"
+    },
+    {
+        "id": 3139,
+        "chinese": "你是認真的？",
+        "emoji": "😮✋❓",
+        "type": "gpt"
+    },
+    {
+        "id": 1798,
+        "chinese": "但你是對的。有很多火災。",
+        "emoji": "👍🔥🚒👁️",
+        "type": "gpt"
+    },
+    {
+        "id": 1427,
+        "chinese": "限速65！",
+        "emoji": "⏳🚗6️⃣5️⃣",
+        "type": "gpt"
+    },
+    {
+        "id": 931,
+        "chinese": "我憑直覺買了它。",
+        "emoji": "🔮🛒💸",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨‍🎓📚👊🥁✔🍃🎷🏃‍♀️🉐🌱🐏👿🌱👉",
+        "chinese": "學習打鼓對節奏感的培養很重要",
+        "id": 2258,
+        "type": "algorithm"
+    },
+    {
+        "id": 1334,
+        "chinese": "我想我會做一個三明治。",
+        "emoji": "🤔🥪👤",
+        "type": "gpt"
+    },
+    {
+        "chinese": "太空一號，非常不錯。",
+        "emoji": "🚀🌌👍",
+        "id": 3963,
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🉐，🥩🉐。",
+        "chinese": "是的，會的。",
+        "id": 3609,
+        "type": "algorithm"
+    },
+    {
+        "id": 3209,
+        "chinese": "而且也很深。",
+        "emoji": "🔄🌊",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🤝💩🤟🉐👁🧝‍♀️⛏🌅📨。",
+        "chinese": "我會把你的眼睛挖出來。",
+        "id": 806,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐵👿🔲🙄2️⃣👥🌐🌭👨‍👦🗣🎗🗣。",
+        "chinese": "他很粗魯而且經常大喊大叫。",
+        "id": 2998,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⛽7️⃣✔🥇🔗🉐。",
+        "chinese": "尤其是金屬的。",
+        "id": 2425,
+        "type": "algorithm"
+    },
+    {
+        "id": 3683,
+        "chinese": "我們去你家吧。",
+        "emoji": "🏠🚶‍♂️🚶‍♀️",
+        "type": "gpt"
+    },
+    {
+        "id": 1574,
+        "chinese": "這是個好問題。",
+        "emoji": "🤔👍❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🏋▪✔🔟❔？",
+        "chinese": "重點是什麼？",
+        "id": 4592,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🎺👨‍👩‍👧‍👦😮。",
+        "chinese": "好多啊。",
+        "id": 1970,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨‍🍳➡📍❔🏠？",
+        "chinese": "座位在哪裡？",
+        "id": 256,
+        "type": "algorithm"
+    },
+    {
+        "id": 3198,
+        "chinese": "那是一個開關。",
+        "emoji": "🔄🧑‍🔧",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️⬅💩🚗🏄🛀1️⃣⬇。",
+        "chinese": "我先把車沖洗一下。",
+        "id": 4109,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇿💐🐦🐘✍️2️⃣🕊🐤⏲。",
+        "chinese": "只花了大約兩個小時。",
+        "id": 2878,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "他的家人卡西·阿弗萊克，也是我喜歡的大帥哥呢！",
+        "emoji": "👪👨👍🔥",
+        "id": 487,
+        "type": "gpt"
+    },
+    {
+        "id": 4266,
+        "chinese": "偶爾。",
+        "emoji": "👍💭",
+        "type": "gpt"
+    },
+    {
+        "id": 2660,
+        "chinese": "如果我淋浴時間短一點怎麼樣？",
+        "emoji": "🚿⏳❓",
+        "type": "gpt"
+    },
+    {
+        "id": 2174,
+        "chinese": "他們需要 300 名新工人。",
+        "emoji": "🧑‍💼📈🔜🆕😊",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🧑🎂❔🇿➡🌅👀，❓🖥🀨🌬🎽🧪☢。",
+        "chinese": "人生若只如初見，何事秋風悲畫扇。",
+        "id": 2664,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔🉐，🐵👿🫀。",
+        "chinese": "是的，它很髒。",
+        "id": 2056,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇳，⛑🤫▪🩺❔。",
+        "chinese": "嗯，安靜點聽吧。",
+        "id": 42,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🏛🖐🎉🏘",
+        "chinese": "鼓掌慶祝",
+        "id": 3971,
+        "type": "algorithm"
+    },
+    {
+        "id": 2991,
+        "chinese": "是的，我有。",
+        "emoji": "✅🎮",
+        "type": "gpt"
+    },
+    {
+        "id": 1543,
+        "chinese": "我看你很有才華。",
+        "emoji": "👁️🌟👍",
+        "type": "gpt"
+    },
+    {
+        "id": 1814,
+        "chinese": "夥計，那是一場非常接近的比賽。",
+        "emoji": "🤝🏀🔍🤏",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔔🔥🙅‍♂️✔。👉🏃✔🌱👪✝⚖。",
+        "chinese": "當然不是。那將是種族主義。",
+        "id": 4306,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔🉐，👨🖊🌭🐕❓🍺💩📱。",
+        "chinese": "是的，它比熱狗或啤酒便宜。",
+        "id": 3545,
+        "type": "algorithm"
+    },
+    {
+        "id": 1505,
+        "chinese": "你懂我在說什麼。",
+        "emoji": "👀👌🗣️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🤓☯❔🏠🈶👍🌎🚻🚶😪🔥🐎？",
+        "chinese": "你知道哪裡有好的健身教練嗎？",
+        "id": 4408,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟😪🉐🤟💪📨🐎？",
+        "chinese": "你覺得你能來嗎？",
+        "id": 1213,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨🚪🏙🗣🙋‍♂️🆚🫴🥷🤕👨。",
+        "chinese": "他們都說我必須忍受它。",
+        "id": 843,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️❕➡🤟💪💰🐦1️⃣👥。",
+        "chinese": "我以為你剛買了一雙。",
+        "id": 1363,
+        "type": "algorithm"
+    },
+    {
+        "id": 3177,
+        "chinese": "他的醫生說他的心臟和肺部都很強壯而且健康。",
+        "emoji": "💓🫀🩺🗣️👨‍⚕️",
+        "type": "gpt"
+    },
+    {
+        "id": 1836,
+        "chinese": "我沒有錢，也沒有新車。",
+        "emoji": "💰❌🚗",
+        "type": "gpt"
+    },
+    {
+        "id": 4005,
+        "chinese": "那個新遊戲節目怎麼樣？",
+        "emoji": "🆕🎮📺🤔",
+        "type": "gpt"
+    },
+    {
+        "id": 1507,
+        "chinese": "不。他們說有些事情你無法解釋。",
+        "emoji": "🚫🗣️📚🤔",
+        "type": "gpt"
+    },
+    {
+        "id": 3894,
+        "chinese": "你可能會擊中某人的頭部。",
+        "emoji": "🏹🎯👤",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👉❔，🤟➡🔟❔🙅‍♂️🚶❔？",
+        "chinese": "那麼，你為什麼不走呢？",
+        "id": 700,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁✔🏃1️⃣🔪👫🙃🉐😠📏。",
+        "chinese": "這是將一切拉倒的力量。",
+        "id": 3170,
+        "type": "algorithm"
+    },
+    {
+        "id": 2590,
+        "chinese": "你無法相信你在電視或廣播中聽到的內容。",
+        "emoji": "🙉📺📻👂",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️➡🤟✊➡😞➡。",
+        "chinese": "我為你感到難過。",
+        "id": 4310,
+        "type": "algorithm"
+    },
+    {
+        "id": 1346,
+        "chinese": "是的。你真的應得的。",
+        "emoji": "👍🎉👤🏆",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙏。📛🌥🙋‍♂️🤝💰1️⃣📁😀🉐。",
+        "chinese": "謝謝。明天我會買一件新的。",
+        "id": 1389,
+        "type": "algorithm"
+    },
+    {
+        "id": 2306,
+        "chinese": "我警告過她關於她的新男朋友的事。她不聽我的。",
+        "emoji": "🚨🗣️🚫👫😔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "📛🌥🙋‍♂️👉🚶💰1️⃣🕊⚡👋❔🔪🤖。",
+        "chinese": "明天我要去買一個電動磨刀器。",
+        "id": 3606,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🔥⏪🐵🆘🤝👁🛫📨🗿❤️🉐1️⃣🤱",
+        "chinese": "然後它就會看起來像新的一樣",
+        "id": 3219,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我們來玩遊戲",
+        "emoji": "🎲🎮",
+        "id": 1822,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🎎🎣1️⃣2️⃣🆘😫👨‍👩‍👧‍👦🐦。",
+        "chinese": "偶爾一次就太多了。",
+        "id": 3577,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⚛💓·⚛📓：👨‍⚖️🐟1️⃣🕊🔙👶💤🉐🆘✔📴🐟1️⃣🕊👶😮。",
+        "chinese": "科特·科本：關於一個孩子說的就是關於一個孩子啊。",
+        "id": 1589,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🍶😔，⛰🚻🐧⌛🍂📜",
+        "chinese": "清晨，山間氣候宜人",
+        "id": 2761,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟📍❔🏠👁➡？",
+        "chinese": "你在哪裡看過？",
+        "id": 284,
+        "type": "algorithm"
+    },
+    {
+        "id": 4633,
+        "chinese": "謝謝。我今天早些時候剛買了這雙新鞋。",
+        "emoji": "🙏🛍️👞",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🎤🈹1️⃣🌥🚬3️⃣👜🚬。",
+        "chinese": "我哥哥一天抽三包菸。",
+        "id": 2924,
+        "type": "algorithm"
+    },
+    {
+        "id": 3127,
+        "chinese": "我很好。你呢？",
+        "emoji": "😊👍",
+        "type": "gpt"
+    },
+    {
+        "id": 565,
+        "chinese": "新聞的頭條新聞是什麼？",
+        "emoji": "📰🤔🆕👀❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🌎。👨🗣👨9️⃣▪🔚➡。",
+        "chinese": "是的。他說他九點鐘到。",
+        "id": 3586,
+        "type": "algorithm"
+    },
+    {
+        "id": 3399,
+        "chinese": "他們為什麼要這樣做？",
+        "emoji": "😮🚘❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🤝🗣2️⃣👥🗨🔥。",
+        "chinese": "你會說兩種語言。",
+        "id": 3872,
+        "type": "algorithm"
+    },
+    {
+        "id": 4155,
+        "chinese": "我也是。我等不及冬天了。",
+        "emoji": "😄❄️🎁🎄🏂",
+        "type": "gpt"
+    },
+    {
+        "id": 38,
+        "chinese": "你看到那輛車了嗎？",
+        "emoji": "👀🚗",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🙅‍♂️🤔1️⃣🕊🧑👁⚡🎞。",
+        "chinese": "我不想一個人看電影。",
+        "id": 275,
+        "type": "algorithm"
+    },
+    {
+        "id": 248,
+        "chinese": "那麼也許他會永遠入獄？",
+        "emoji": "🤔👮‍♂️🔒🔄",
+        "type": "gpt"
+    },
+    {
+        "chinese": "好的，我晚上看看。",
+        "emoji": "👍🌙🎬",
+        "id": 1733,
+        "type": "gpt"
+    },
+    {
+        "emoji": "〰🥕📃🌧🔟📅🧗‍♂️，1️⃣💪🧝‍♀️🈳😲✔🧑。",
+        "chinese": "江湖夜雨十年燈，一劍凌空驚世人。",
+        "id": 3684,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟📿⬆🉐🙏🧭🐎？",
+        "chinese": "你向上帝祈禱嗎？",
+        "id": 2752,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "他每天都會練習薩克斯風",
+        "emoji": "👦🎷🎶⏰",
+        "id": 3983,
+        "type": "gpt"
+    },
+    {
+        "id": 3801,
+        "chinese": "我丟了我的新筆。",
+        "emoji": "🆕🖊️📦👎",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🤔👹🤓🙃？",
+        "chinese": "你怎麼知道？",
+        "id": 1967,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🎵1️⃣🈚🈶👊📝2️⃣🛌💍💴🐦。",
+        "chinese": "我因為沒有工作而被解雇了。",
+        "id": 3943,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我們去釣魚吧",
+        "emoji": "🎣🚣‍♂️",
+        "id": 4030,
+        "type": "gpt"
+    },
+    {
+        "id": 675,
+        "chinese": "哎呀！誰能記住這一切？",
+        "emoji": "😫🤔🧠🚫",
+        "type": "gpt"
+    },
+    {
+        "id": 2724,
+        "chinese": "現在正在播放。我們一起來看看吧。",
+        "emoji": "🎥🍿👀🎬",
+        "type": "gpt"
+    },
+    {
+        "chinese": "濃霧導致能見度很低",
+        "emoji": "🌫️👀",
+        "id": 1162,
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔，2008📅3🇻🇳2☀️⬆📽🉐。",
+        "chinese": "對，2008年3月2日上映的。",
+        "id": 2897,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🈶⏲❔🍩🌱🉐🐕？",
+        "chinese": "你有什麼品種的狗？",
+        "id": 4614,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "➡🔟❔🤔🏫➡👉🏠？",
+        "chinese": "為什麼想搬到那裡？",
+        "id": 744,
+        "type": "algorithm"
+    },
+    {
+        "id": 1764,
+        "chinese": "瑞士。",
+        "emoji": "🇨🇭🏔️",
+        "type": "gpt"
+    },
+    {
+        "id": 2691,
+        "chinese": "你買轉換器了嗎？",
+        "emoji": "🛒🔌🔄❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔟🧣🎊👓🔙➕📨，❔🇨🇳3️⃣😀⬇🔈🌏。",
+        "chinese": "千金散盡還復來，煙花三月下揚州。",
+        "id": 2616,
+        "type": "algorithm"
+    },
+    {
+        "id": 3059,
+        "chinese": "你做？我幾天前剛買了這件衣服。",
+        "emoji": "👤❓🛍️👚🕒",
+        "type": "gpt"
+    },
+    {
+        "id": 1404,
+        "chinese": "它花了多少時間？",
+        "emoji": "🕒👀📅",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️✊👊🎰👨👥🕊⌛🐦。",
+        "chinese": "我敢打賭他也喝酒了。",
+        "id": 92,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👍🉐，🙋‍♂️🎠🛄🥤🧹🎈。",
+        "chinese": "好的，我去拿吸塵器。",
+        "id": 2172,
+        "type": "algorithm"
+    },
+    {
+        "id": 2069,
+        "chinese": "我們需要預訂嗎？",
+        "emoji": "🍽️📅❓",
+        "type": "gpt"
+    },
+    {
+        "id": 189,
+        "chinese": "哦真的嗎？",
+        "emoji": "❓🎉🤔",
+        "type": "gpt"
+    },
+    {
+        "id": 2960,
+        "chinese": "你看到服務生的手了嗎？",
+        "emoji": "👀👨‍🍳🖐️",
+        "type": "gpt"
+    },
+    {
+        "id": 4627,
+        "chinese": "這似乎不對。",
+        "emoji": "🤔❌",
+        "type": "gpt"
+    },
+    {
+        "id": 3714,
+        "chinese": "怎麼可能有趣呢？",
+        "emoji": "🤔😆❓",
+        "type": "gpt"
+    },
+    {
+        "id": 122,
+        "chinese": "是的，他們在見面時喜歡互相嗅聞。",
+        "emoji": "🐶❤️👃👃🐾",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🉐，↪👨🚪⬅🍀🈚🈶💸➡👨‍👩‍👧‍👦🔄⏩。",
+        "chinese": "是的，但他們從來沒有賺到多少錢。",
+        "id": 1105,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "☑👨‍🌾🔋🌅🤝⏰📨。",
+        "chinese": "選民遲早會醒來。",
+        "id": 2117,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🚡🙋‍♂️？",
+        "chinese": "所以？",
+        "id": 1914,
+        "type": "algorithm"
+    },
+    {
+        "id": 1154,
+        "chinese": "你聽過球員嗎？",
+        "emoji": "👂🏀👨‍🎤❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨🚦🌭📍⭐🚩2️⃣🀄5️⃣➡🛬，👥🆘✔📛🌥。",
+        "chinese": "它通常在星期二中午到達，也就是明天。",
+        "id": 4523,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🉑🍫☯🏁👫🍣🉐👨‍👩‍👧‍👦🧑🤟🔎👀🐎？",
+        "chinese": "柯克道格拉斯的家人你認識嗎？",
+        "id": 3267,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "昨晚我去參加了一場搖滾音樂會，現場氣氛熱烈，觀眾們隨著音樂搖擺，樂隊的表演非常精彩。",
+        "emoji": "🌃🎸🎶👨‍🎤👏👨‍👩‍👧‍👦💃🕺",
+        "id": 3407,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔓。🙋‍♂️🤿🐔🌥💪💰🐦🈁👤1️⃣👚。",
+        "chinese": "謝謝。我前幾天剛買了這件衣服。",
+        "id": 1066,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🤓☯，🈁🩺🛫📨✔🪨👿⚾。",
+        "chinese": "我知道，這聽起來確實很棒。",
+        "id": 4226,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐵🏢👋🦜❓7️⃣👨🏙🙋‍♂️🏆🛄🤔⚖。",
+        "chinese": "他正在訪問其他城市以獲取想法。",
+        "id": 1769,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨◀️👨‍🔧⏩🙅‍♂️🦅👍🤿💧。",
+        "chinese": "他退休前不應該潛水。",
+        "id": 1377,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨✔🙅‍♂️🧪🀄🇺🇳🏃🌱🚹🧝‍♀️🉐？",
+        "chinese": "他是不是中國江蘇南京的？",
+        "id": 3187,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🧑🚪💤🤳🕊🧑🏙❤🇪🇺❔🐴。",
+        "chinese": "人們說每個人都愛歐巴馬。",
+        "id": 2672,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔🉐，↪👨🏃📍🪦🌎🏠，🧑🉐👶🉑🙋‍♂️📍👉🏠🕵👀🧑。",
+        "chinese": "是的，但它將在墓地裡，您的孩子可以在那裡探望您。",
+        "id": 3843,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔🉐，🙋‍♂️💩🛌🤾‍♂️🧤🔍📍🛌👤⬆。",
+        "chinese": "是的，我把枕頭套放在枕頭上。",
+        "id": 1170,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👩🔆⬜❓❔🌅📍❔🏠🐎？",
+        "chinese": "他明白問題出在哪裡嗎？",
+        "id": 464,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️😀🔪💒🐦。",
+        "chinese": "我要結婚了。",
+        "id": 4311,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟💪🤔🗿🔔🈴1️⃣📿？",
+        "chinese": "你能想像當總統嗎？",
+        "id": 185,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "颱風過後天氣轉晴",
+        "emoji": "🌀🌤️",
+        "id": 3460,
+        "type": "gpt"
+    },
+    {
+        "id": 2732,
+        "chinese": "不，謝謝，也許下次吧。",
+        "emoji": "🙅‍♂️🚫👍🔜",
+        "type": "gpt"
+    },
+    {
+        "chinese": "宇宙黑洞的新研究提供驚人發現",
+        "emoji": "🌌🕳️🔭🌠",
+        "id": 2456,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔥⏪👩🆘🤝🥤➡🤟🏮🎉🐵。",
+        "chinese": "然後她就會知道你喜歡她。",
+        "id": 1259,
+        "type": "algorithm"
+    },
+    {
+        "id": 2596,
+        "chinese": "也許是這樣，但請回答問題。",
+        "emoji": "🎥🤔❓🗣️",
+        "type": "gpt"
+    },
+    {
+        "id": 3179,
+        "chinese": "你知道規則。",
+        "emoji": "🧠📏🤔",
+        "type": "gpt"
+    },
+    {
+        "id": 3804,
+        "chinese": "這是2003年的新作。",
+        "emoji": "🎨🔙2️⃣0️⃣0️⃣3️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👉🆘☀️👍🐦，🙏。",
+        "chinese": "那就太好了，謝謝。",
+        "id": 1665,
+        "type": "algorithm"
+    },
+    {
+        "id": 1490,
+        "chinese": "那麼它們的每一分錢都是值得的。",
+        "emoji": "💵👫🔄🌟",
+        "type": "gpt"
+    },
+    {
+        "chinese": "籃球世界杯熱烈開賽，球隊狀態良好",
+        "emoji": "🏀🌍🏆👟🏀",
+        "id": 1036,
+        "type": "gpt"
+    },
+    {
+        "id": 1270,
+        "chinese": "然後什麼？",
+        "emoji": "🤔🚶‍♂️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🦅👍🪠💧⚡🧪🔌👤。",
+        "chinese": "你應該拔掉電話插頭。",
+        "id": 2183,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🚩🐵❔➕📕⚪🇩🧑🤔❔🏢？",
+        "chinese": "其他無家可歸的人怎麼辦？",
+        "id": 2623,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "每當失落時，音樂總能給我力量",
+        "emoji": "🎶😔💪",
+        "id": 341,
+        "type": "gpt"
+    },
+    {
+        "id": 1725,
+        "chinese": "我想我的體重增加了一些。",
+        "emoji": "🤔💭🏋️‍♂️📈",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👉✔🪡🪨🔢。🙋‍♂️🀂👀🙅‍♂️👉⬇🌧。",
+        "chinese": "那是真實的。我希望不要下雨。",
+        "id": 1188,
+        "type": "algorithm"
+    },
+    {
+        "id": 3676,
+        "chinese": "是的。對你有好處。",
+        "emoji": "👍💡🤝",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍❔，🗣➡🕊，🙋‍♂️🇧🧔🏻📎➡🏢⬆。",
+        "chinese": "好吧，無論如何，我必須回到樓上。",
+        "id": 2333,
+        "type": "algorithm"
+    },
+    {
+        "id": 2882,
+        "chinese": "當然是去城市。",
+        "emoji": "🏙️👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "$1,000.00",
+        "chinese": "$1,000.00",
+        "id": 3242,
+        "type": "algorithm"
+    },
+    {
+        "id": 1993,
+        "chinese": "比起世界上的一切權力，我更喜歡安靜的小生活。",
+        "emoji": "🌍👑🤐🏠🌱",
+        "type": "gpt"
+    },
+    {
+        "id": 188,
+        "chinese": "網路太棒了。",
+        "emoji": "🌐💡👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👩📨🚲🧴🐂。",
+        "chinese": "它來自乳牛。",
+        "id": 4213,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🗓🌥🇧🧔🏻🚶🛒🈂。",
+        "chinese": "我今天必須去購物。",
+        "id": 1629,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟👚💪🧽➡👐🔫📨🔓☑❓❔。",
+        "chinese": "你不能透過開槍來解決問題。",
+        "id": 635,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪📍☕✈🏬🏠🌡➡🐦1️⃣🕊😀🔜🉐⬇🕛",
+        "chinese": "我們在咖啡店裡度過了一個愉快的下午",
+        "id": 3637,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟😪🉐🙋‍♂️🧝🤰🐦🐎？",
+        "chinese": "你覺得我變胖了嗎？",
+        "id": 58,
+        "type": "algorithm"
+    },
+    {
+        "id": 2803,
+        "chinese": "因為所有的安全？",
+        "emoji": "🔒🤔🤷‍♂️",
+        "type": "gpt"
+    },
+    {
+        "id": 3886,
+        "chinese": "或藝術家。",
+        "emoji": "👨‍🎨",
+        "type": "gpt"
+    },
+    {
+        "id": 3956,
+        "chinese": "我的意思是我有很棒的學生。",
+        "emoji": "👤🏫👍👦👧",
+        "type": "gpt"
+    },
+    {
+        "chinese": "還可以吧！沒有很低啦！",
+        "emoji": "🤔🌡️",
+        "id": 2338,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔙👉🧷🉐🐎？",
+        "chinese": "還要別的嗎？",
+        "id": 2799,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙅‍♂️👉🕊📦👚🐂🍼。🔛🔧🌊👓🥃！",
+        "chinese": "不要喝盒裝牛奶。使用玻璃杯！",
+        "id": 168,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️💩🍧🍌💄🈵🐦💂🚩🚿。",
+        "chinese": "我把冰箱裝滿了冰淇淋。",
+        "id": 2634,
+        "type": "algorithm"
+    },
+    {
+        "id": 2057,
+        "chinese": "又一筆划算的交易。",
+        "emoji": "💹🤝",
+        "type": "gpt"
+    },
+    {
+        "emoji": "☀️🧶🎂🐦。🤟🤔👉🦸‍♂️📄📕🉐📝🌃📿？",
+        "chinese": "太糟糕了。你想要英文課的作業嗎？",
+        "id": 2768,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "↪👍🉐🍽🏠✔👉💐⏩🉐。",
+        "chinese": "但好的餐廳是要花錢的。",
+        "id": 4527,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈚🈶❔，🈁⬇👍🐦，🍫🙅‍♂️🔧😒🐦。",
+        "chinese": "沒有呢，這下好了，可不用愁了。",
+        "id": 2145,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁👆➡🔟❔？",
+        "chinese": "這是為什麼？",
+        "id": 1873,
+        "type": "algorithm"
+    },
+    {
+        "id": 1467,
+        "chinese": "好的。",
+        "emoji": "👌",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🌅🚶😋🍚❔。",
+        "chinese": "我們出去吃飯吧。",
+        "id": 4410,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "〰🀁🉑🌈🌺，🈺🕊🌾。",
+        "chinese": "江南可採蓮，蓮葉何田田。",
+        "id": 1203,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "他彈奏鋼琴的技巧非常高超",
+        "emoji": "👦🎹🎶👍",
+        "id": 1748,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🉐👖👶⏩🛍🈶1️⃣🕊🕳。",
+        "chinese": "我的褲子前袋有一個洞。",
+        "id": 1372,
+        "type": "algorithm"
+    },
+    {
+        "id": 1044,
+        "chinese": "但願如此。我需要去洗手間。",
+        "emoji": "🙏🚽",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈚👬🧑🕷️☯🙋‍♂️🚪☠⏪🤝🀅🎂🍚❔🖥。",
+        "chinese": "沒有人知道我們死後會發生什麼事。",
+        "id": 416,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁✔🏚❌🌎！",
+        "chinese": "這是荒謬的！",
+        "id": 1072,
+        "type": "algorithm"
+    },
+    {
+        "id": 854,
+        "chinese": "每次我們出去吃飯，都是一場冒險。",
+        "emoji": "🚶‍♂️🥘🌟🔍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🐵🈶🎫🙇‍♀️🉐🏠👶。",
+        "chinese": "它有漂亮的房子。",
+        "id": 1573,
+        "type": "algorithm"
+    },
+    {
+        "id": 951,
+        "chinese": "我想曬黑。我不想看起來那麼蒼白。",
+        "emoji": "🌞🏖️👱‍♀️🚫👻",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍🉐。🙋‍♂️🤝🗣👂🤟👨‍🎤🌅➡❓🎀👨‍🎨。",
+        "chinese": "好的。我會告訴你演出如何結束。",
+        "id": 683,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "❤🤟⌛",
+        "chinese": "愛你久久",
+        "id": 2536,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🚣🙋‍♂️👐👼➡🐴🛣🪨，⬜😍🉐🚶🏷🥪📍✨。",
+        "chinese": "當我開始過馬路時，白色的步行標誌在閃爍。",
+        "id": 995,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "意外的旅程看過嗎？",
+        "emoji": "🎬👀❓",
+        "id": 942,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🧑🉑🙋‍♂️📍🈁🏠✔💄",
+        "chinese": "您可以在這裡試妝",
+        "id": 53,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⬇🕛🉑💪🤝🈶♟🌧",
+        "chinese": "下午可能會有陣雨",
+        "id": 2693,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🏮🎉🈁💴✋👜🐎？",
+        "chinese": "你喜歡這款手提包嗎？",
+        "id": 238,
+        "type": "algorithm"
+    },
+    {
+        "id": 3114,
+        "chinese": "好吧，他現在有的是時間！",
+        "emoji": "👍🕒🏀",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🗣⬇🐪💓😫🧠，裏🍜🉐🐎🦋爲⛹🎥👍🎞⛹🎥⚡🏃🤕🚶，🥵➖10⚖❔。",
+        "chinese": "叫夏洛特煩惱，裏面的馬麗爲拍攝該片拍攝迅速瘦身，狂減10斤呢。",
+        "id": 2137,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐵🈶7️⃣🦸‍♂️📏🌲。",
+        "chinese": "它有七英尺高。",
+        "id": 557,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔⚔，🌃⬆ 7 ▪👐🔛",
+        "chinese": "是的，晚上 7 點開始",
+        "id": 1495,
+        "type": "algorithm"
+    },
+    {
+        "id": 813,
+        "chinese": "嘗試在線谷歌搜索。",
+        "emoji": "🔍🌐📲",
+        "type": "gpt"
+    },
+    {
+        "id": 249,
+        "chinese": "那麼救生員為什麼要潛入水中呢？",
+        "emoji": "👨‍🚒🏊‍♂️❓🌊",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🗄🔢🏙👿👍。🈁🔢👀🔟❔？",
+        "chinese": "那些都很好。這些是什麼？",
+        "id": 1572,
+        "type": "algorithm"
+    },
+    {
+        "id": 3490,
+        "chinese": "你看到地板上的那一灘水了嗎？",
+        "emoji": "👀🚰👞",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🉐，🖥🔟⬆，🙋‍♂️🧘🙃🐦。",
+        "chinese": "是的，事實上，我做到了。",
+        "id": 393,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👀🈳🤔7️⃣🚬，⏱🚶👍2️⃣🔽🚲💰👥",
+        "chinese": "見賢思齊焉，見不賢而內自省也",
+        "id": 4077,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "↪➡🍏🙋‍♂️🚪🚶🕷️🏴‍☠️❓🧑🉐🌱🦶，🙋‍♂️🚪➡❓👀🧷👨🉐🈸📊？",
+        "chinese": "但如果我們不知道某人的種族，我們如何識別他的身份？",
+        "id": 662,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "♂👨‍✈️🏠，👶🚪🉐🎉☺🎂🏆🏃🉐🚶🎞🏗👨‍💻🐦1️⃣👨🤳🦋🉐⬇☀️🖼🌪。",
+        "chinese": "公園裡，孩子們的歡笑聲和追逐的身影構成了一幅美麗的夏日畫卷。",
+        "id": 1750,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🏮🎉👩🚪🔛🔧🉐🙅‍♂️👬👥🚶🉐😀🤖。",
+        "chinese": "我喜歡他們使用的不同類型的樂器。",
+        "id": 632,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🛀🎉👁➡📷✔🧑1️⃣🐏🔢👨‍🎤⭕。",
+        "chinese": "我喜歡看到像真人一樣的演員。",
+        "id": 4481,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我也是剛聽你說的，之前不知道。",
+        "emoji": "👂🚫🤔",
+        "id": 4231,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👥🉑🤟🦅👍🗺☑🏹🕴。",
+        "chinese": "也許你應該競選公職。",
+        "id": 4561,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🆚🧔🏻📆🌥🔥📚。",
+        "chinese": "我們必須每天練習。",
+        "id": 3725,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙅‍♂️，🙏。🙋‍♂️🌐😋🐦1️⃣🛌👉。",
+        "chinese": "不，謝謝。我已經吃了一些藥。",
+        "id": 4364,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "😀，🤟➡🔟❔👍？",
+        "chinese": "嘿，你有什麼好？",
+        "id": 4095,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🤝🇻🇳。",
+        "chinese": "我會說。",
+        "id": 1246,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "公共衛生預算增加，強化健康服務",
+        "emoji": "🏛️💰⬆️🩺🌐",
+        "id": 713,
+        "type": "gpt"
+    },
+    {
+        "emoji": "📏👨🌙🐵🧪🗺🌇🆘🚹👶。",
+        "chinese": "丈夫說他試圖幫助男孩。",
+        "id": 4222,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🉑🙋‍♂️👼🔧🙋‍♂️🚪📦🌠💲💳🤔🈺〰🧷",
+        "chinese": "你可以使用我們的會員卡享受折扣",
+        "id": 775,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🉑👨‍👩‍👧‍👦🧑🔎➡🐵🚪🉐🤾‍♂️💃👥🙅‍♂️🏋👉。",
+        "chinese": "許多人認為他們的投票並不重要。",
+        "id": 932,
+        "type": "algorithm"
+    },
+    {
+        "id": 4440,
+        "chinese": "很高興他抽出時間來拜訪。",
+        "emoji": "😊🕒👤🏠",
+        "type": "gpt"
+    },
+    {
+        "id": 729,
+        "chinese": "你什麼時候走？",
+        "emoji": "🕒🚶‍♂️",
+        "type": "gpt"
+    },
+    {
+        "chinese": "我有一個會議",
+        "emoji": "🤝💼",
+        "id": 2583,
+        "type": "gpt"
+    },
+    {
+        "id": 988,
+        "chinese": "但十月的價格可能會便宜一些。",
+        "emoji": "📅🔽💰10️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🤲🔥👐🔫。",
+        "chinese": "我討厭開槍。",
+        "id": 1357,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🤔🌥👉⬇🌧🐦。",
+        "chinese": "我想天要下雨了。",
+        "id": 171,
+        "type": "algorithm"
+    },
+    {
+        "id": 2509,
+        "chinese": "我從聖安妮塔購物中心的梅西百貨買的。",
+        "emoji": "🛍️🏢🛒🛒",
+        "type": "gpt"
+    },
+    {
+        "chinese": "這位機械師正在修理一輛汽車。他專業地使用各種工具，檢查和維修機械部件。他的工作不僅需要技術知識，也需要細心和耐心。",
+        "emoji": "👨‍🔧🚗🔧🛠️",
+        "id": 1460,
+        "type": "gpt"
+    },
+    {
+        "emoji": "😦。🙋‍♂️🔔🔥🎯💰👍🐦。",
+        "chinese": "哦。我當然準備好了。",
+        "id": 4443,
+        "type": "algorithm"
+    },
+    {
+        "id": 4505,
+        "chinese": "是的，根據選民指示。",
+        "emoji": "📊🗳️✅",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🀂👀🙋‍♂️🚪💪👮🏘🔓👽⚽。",
+        "chinese": "我希望我們能抓住界外球。",
+        "id": 908,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🉐👘👶🙅‍♂️✔📰🗓。",
+        "chinese": "你的袖子不是紙巾。",
+        "id": 1064,
+        "type": "algorithm"
+    },
+    {
+        "id": 1463,
+        "chinese": "我還沒有聽說過任何有關此事的消息。",
+        "emoji": "🚫👂📰🤔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👵🙋‍♂️🛄📷🤖。",
+        "chinese": "讓我拿相機。",
+        "id": 78,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🉑👨‍👩‍👧‍👦👔⛰🏙🛍👬1️⃣🕊😦👽🉐➿🐘。",
+        "chinese": "許多襯衫都帶有一個額外的紐帶。",
+        "id": 4452,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️👥👿🧑‍🦯。",
+        "chinese": "我也很忙。",
+        "id": 3333,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🏃🫂🈶💰🏃🉐🏠👶，↪👨‍⚖️⚖⏱🥇。",
+        "chinese": "我們將擁有富裕的房子，但缺乏現金。",
+        "id": 2645,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "💡📏🐦。",
+        "chinese": "燈亮了。",
+        "id": 716,
+        "type": "algorithm"
+    },
+    {
+        "id": 2860,
+        "chinese": "他們需要左轉箭頭。",
+        "emoji": "👥🔄🔻",
+        "type": "gpt"
+    },
+    {
+        "chinese": "你可以在這裡試穿這件衣服",
+        "emoji": "👗🚪🧍",
+        "id": 4649,
+        "type": "gpt"
+    },
+    {
+        "emoji": "📖🏬🉐📆1️⃣🕊🦶🍂🏙🙈✍🈚🔚🉐🤓👀🕊⌛🗺，⏳🎗✍🧑🚪🚶🀅⏱🕊🕵🚡。",
+        "chinese": "書店的每一個角落都藏著無盡的知識和故事，等待著人們去發現和探索。",
+        "id": 4055,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟👿🚶🏃，🈁🙅‍♂️🏙1️⃣💩🌬✌🇩🔪。",
+        "chinese": "你很幸運，這不是一把鋒利的刀。",
+        "id": 1565,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟📝🥉🐦🚿🏠。",
+        "chinese": "你忘記了浴室。",
+        "id": 3810,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "廚房裡的每一道菜都是愛的味道",
+        "emoji": "👩‍🍳🍲❤️👨‍🍳",
+        "id": 2118,
+        "type": "gpt"
+    },
+    {
+        "chinese": "書呆子正在讀書",
+        "emoji": "📚🤓📖",
+        "id": 2552,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🐵🚪🗣🙋‍♂️🫴👉1️⃣🕊🆕🧱📉。",
+        "chinese": "他們說我需要一個新硬碟。",
+        "id": 3261,
+        "type": "algorithm"
+    },
+    {
+        "id": 88,
+        "chinese": "我喜歡待售房屋的美麗照片。",
+        "emoji": "👍🏠📸",
+        "type": "gpt"
+    },
+    {
+        "id": 3910,
+        "chinese": "電池沒電了。",
+        "emoji": "🔋❌",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍8️⃣，🈁🦅👍🤝1️⃣🤟⚫📨1️⃣🔢🀩🀂。",
+        "chinese": "好吧，這應該會為你帶來一些東西。",
+        "id": 3980,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐵🙅‍♂️😫🐘。",
+        "chinese": "它不太大。",
+        "id": 1129,
+        "type": "algorithm"
+    },
+    {
+        "id": 784,
+        "chinese": "今天是十三號星期五。",
+        "emoji": "📆1️⃣3️⃣🌕5️⃣",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🉐，🙋‍♂️㊙✉🐦✉️🌾。",
+        "chinese": "是的，我密封了信封。",
+        "id": 1961,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁🔢☺🗣🖥❓🧶🉐？",
+        "chinese": "這些笑話是誰編的？",
+        "id": 3826,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤡👨‍👩‍👧‍👦🐦🔙✔🧑👨‍👩‍👧‍👦🐦？",
+        "chinese": "魚多了還是人多了？",
+        "id": 1800,
+        "type": "algorithm"
+    },
+    {
+        "id": 1365,
+        "chinese": "是的。我的一生。",
+        "emoji": "✅📜👤🕊️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈁✌🙋‍♂️🚪🉐〰🧷🎯🏑",
+        "chinese": "這是我們的折扣專區",
+        "id": 2648,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🗣♳👩🦅👍3️⃣🙇🌊📴🌎🏹📝。",
+        "chinese": "我告訴她她應該申請海關的工作。",
+        "id": 4209,
+        "type": "algorithm"
+    },
+    {
+        "id": 2702,
+        "chinese": "這些都是卡盤。",
+        "emoji": "📦🎮",
+        "type": "gpt"
+    },
+    {
+        "id": 2613,
+        "chinese": "他們發出很大的噪音，但他們並沒有成功。",
+        "emoji": "🔊🎉❌🏆",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍❔，🙋‍♂️😎🙋‍♂️🚪➕📍➡🈁💸🌅👨‍👦🚗。",
+        "chinese": "好吧，我想我們正在為此付出代價。",
+        "id": 4176,
+        "type": "algorithm"
+    },
+    {
+        "id": 3038,
+        "chinese": "聽起來很好。",
+        "emoji": "👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🦒⌛",
+        "chinese": "長長久久",
+        "id": 4432,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤔💚☯👽🍜🉐🌡🦸‍♂️➡9️⃣🪨🌡，🈁🎨👿7️⃣👾。",
+        "chinese": "考慮到外面的溫度超過九十度，這會很奇怪。",
+        "id": 745,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🐤⏲⌛🆘👋👉🎁。",
+        "chinese": "我小時候就在那裡。",
+        "id": 2918,
+        "type": "algorithm"
+    },
+    {
+        "id": 271,
+        "chinese": "拉爾夫‧納德到底是誰？",
+        "emoji": "🚶‍♂️❓",
+        "type": "gpt"
+    },
+    {
+        "chinese": "有一次我在褲腳口發現了一顆羈扣。",
+        "emoji": "🔘👖📉❗",
+        "id": 4652,
+        "type": "gpt"
+    },
+    {
+        "emoji": "❓🈁❔🧵➡？",
+        "chinese": "誰這麼認為？",
+        "id": 4167,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "↪❌🏗1🉐🌪❔✔「🈚♨✍😇👨‍🎓🏫」。",
+        "chinese": "但措施1的標題是「免費改善學校」。",
+        "id": 2997,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "聽說過她，只是不怎麼了解。",
+        "emoji": "👂👩❓",
+        "id": 1952,
+        "type": "gpt"
+    },
+    {
+        "chinese": "心想事成",
+        "emoji": "💭🎯",
+        "id": 4150,
+        "type": "gpt"
+    },
+    {
+        "id": 3592,
+        "chinese": "是的，儘管有些土豆有眼睛。",
+        "emoji": "✅🥔👀🚫🌰",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈁👨‍👩‍👧‍👦🍽🏠🉐🍕👿📆👃",
+        "chinese": "這家餐廳的披薩很美味",
+        "id": 2560,
+        "type": "algorithm"
+    },
+    {
+        "id": 2435,
+        "chinese": "也許我們應該把它放在塑膠袋裡以保持清潔。",
+        "emoji": "🧹🛍️📦",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🛣️🦄🉐☕🏟🏠，🧑🚪😎🤕✍5️⃣⏪🉐👻🈳🍚🌟，🍩👃🏘🍌🍶🉐☕➖。",
+        "chinese": "街角的咖啡館裡，人們享受著午後的悠閒時光，品味著香醇的咖啡。",
+        "id": 3627,
+        "type": "algorithm"
+    },
+    {
+        "id": 2310,
+        "chinese": "對不起，但我得走了。",
+        "emoji": "🙏🚫🕒",
+        "type": "gpt"
+    },
+    {
+        "id": 665,
+        "chinese": "我想要。我聽說這會非常有趣。",
+        "emoji": "🤔👍📣🎉",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨🚪🏙📍❓👬🐏🉐❓❔。",
+        "chinese": "他們都在問同樣的問題。",
+        "id": 1272,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "這道菜味道鮮美，讓人回味無窮",
+        "emoji": "🍲😋👍",
+        "id": 2250,
+        "type": "gpt"
+    },
+    {
+        "id": 4184,
+        "chinese": "看那些污漬了嗎？",
+        "emoji": "🤔🔍🧼🔷",
+        "type": "gpt"
+    },
+    {
+        "id": 928,
+        "chinese": "沒有花生醬！",
+        "emoji": "🥜❌🍯",
+        "type": "gpt"
+    },
+    {
+        "emoji": "↪➡🍏🙋‍♂️⬇🧓👶✔1️⃣🀐🐟🤔❔🏢？",
+        "chinese": "但如果我下輩子是一條魚怎麼辦？",
+        "id": 3009,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟👍，🙋‍♂️🉑🪑🕊❤🦋🎗🚦🗣🐎？",
+        "chinese": "你好，我可以和愛麗絲通話嗎？",
+        "id": 1314,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁🦪🏠1️⃣👤😣👎🏙。",
+        "chinese": "這真是一件苦差事。",
+        "id": 2938,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "😨🍕🇩🗄🛻❔🏠？",
+        "chinese": "帕薩迪納在哪裡？",
+        "id": 1407,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️👥🙅‍♂️✔👿👁🔓🈁🕊🧑。",
+        "chinese": "我並不是很瞭解這個人。",
+        "id": 3551,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️👩‍🏫🌲🌱🦸‍♂️❓。",
+        "chinese": "我教高中英文。",
+        "id": 254,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "😦，🙋‍♂️🙅‍♂️📍❔。🤟👀👉🕊🤔🌅🚶🉐🧑。",
+        "chinese": "哦，我不在乎。你是那個想出去的人。",
+        "id": 208,
+        "type": "algorithm"
+    },
+    {
+        "id": 3415,
+        "chinese": "有什麼吃的？",
+        "emoji": "🍔🍟🍕🌮🍝",
+        "type": "gpt"
+    },
+    {
+        "id": 394,
+        "chinese": "那些不友善的狗怎麼辦？",
+        "emoji": "🐕❌🤝❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🈴🧪📍🔝⏪😭。",
+        "chinese": "我總是在最後哭。",
+        "id": 4588,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇳，👨‍🌾✝🚩🇻🇳🈁🖥1️⃣🏟🛐🔟🉐☑🏋。",
+        "chinese": "嗯，民主黨說這是一場誠實的選舉。",
+        "id": 3661,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️⬆⭕🎽🔓💴🐦。",
+        "chinese": "我上週被解雇了。",
+        "id": 206,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我先給你看看他的照片吧。",
+        "emoji": "👀📸",
+        "id": 2694,
+        "type": "gpt"
+    },
+    {
+        "id": 2449,
+        "chinese": "我需要一輛便宜的車。",
+        "emoji": "💲🚗",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨‍🎓☺😀✔📍🧼☀️⌚👁🐦🧝‍♀️🌈🉐😀🛄",
+        "chinese": "學校樂隊在節日表演了精彩的樂曲",
+        "id": 50,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我們接受預訂這款新產品",
+        "emoji": "📝🆕📦",
+        "id": 1870,
+        "type": "gpt"
+    },
+    {
+        "id": 2343,
+        "chinese": "嗯，我想看《追求幸福》。",
+        "emoji": "🤔🎬👀❤️",
+        "type": "gpt"
+    },
+    {
+        "chinese": "國際電影節盛大開幕，頒發獎項",
+        "emoji": "🎬🌍🏆🎉",
+        "id": 4486,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟📍❔🏠🚮💧🉐？",
+        "chinese": "你在哪裡丟失的？",
+        "id": 3549,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚶🧶☯。👁🍧🧳🏠。",
+        "chinese": "我不知道。看看冰箱裡。",
+        "id": 4127,
+        "type": "algorithm"
+    },
+    {
+        "id": 374,
+        "chinese": "奢華加速度。",
+        "emoji": "💎🚀",
+        "type": "gpt"
+    },
+    {
+        "id": 447,
+        "chinese": "永遠不會再有另一個寶貝了。",
+        "emoji": "🚫👶✨",
+        "type": "gpt"
+    },
+    {
+        "chinese": "梅雪爭春未肯降，騷人閣筆費評章。",
+        "emoji": "🌸❄️🌱⬇️👨‍🎨🖋️📝📖",
+        "id": 1758,
+        "type": "gpt"
+    },
+    {
+        "id": 3465,
+        "chinese": "它們的售價為 80 美元。",
+        "emoji": "💲8️⃣0️⃣🇺🇸",
+        "type": "gpt"
+    },
+    {
+        "emoji": "⏱📍👨🔍🐌🐦🏃🌡。",
+        "chinese": "現在他放慢了速度。",
+        "id": 4427,
+        "type": "algorithm"
+    },
+    {
+        "id": 3050,
+        "chinese": "我們去海灘吧。",
+        "emoji": "🌊🏖️",
+        "type": "gpt"
+    },
+    {
+        "id": 3065,
+        "chinese": "香煙也是如此。",
+        "emoji": "🚬💭",
+        "type": "gpt"
+    },
+    {
+        "emoji": "⭕5️⃣🌃⬆🙋‍♂️🉑🙋‍♂️🔗🤟🐎？",
+        "chinese": "週五晚上我可以接你嗎？",
+        "id": 2123,
+        "type": "algorithm"
+    },
+    {
+        "id": 767,
+        "chinese": "如果我能找到一個財力雄厚的人，我會的。",
+        "emoji": "🔍💰👫🤔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🏮🎉☀️📓🧑🐎",
+        "chinese": "你喜歡日本人嗎",
+        "id": 1137,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🈶DVD。",
+        "chinese": "我有DVD。",
+        "id": 4124,
+        "type": "algorithm"
+    },
+    {
+        "id": 2970,
+        "chinese": "他是自找的。",
+        "emoji": "👨‍🔬🔍🖊️",
+        "type": "gpt"
+    },
+    {
+        "id": 1444,
+        "chinese": "有點像啤酒。",
+        "emoji": "🍺",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🏙1️⃣🙅‍♂️🎭💑👥🛩🉐🎞，🙋‍♂️🈴🧑🆚😪🏮🎉👁🉐。",
+        "chinese": "是一部劇情類型的影片，我個人比較喜歡看的。",
+        "id": 2113,
+        "type": "algorithm"
+    },
+    {
+        "id": 847,
+        "chinese": "現在還不到10點。",
+        "emoji": "⏰🔟🚫",
+        "type": "gpt"
+    },
+    {
+        "id": 3449,
+        "chinese": "出售時你省錢了嗎？",
+        "emoji": "🏪💸⏰❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️👥🏮🎉，⬇💃🉑👁🉐🌳⚫🏠。",
+        "chinese": "我也喜歡，林妙可演的林黛玉。",
+        "id": 2015,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🈁🧪🕊👍❓❔。👥🉑🈁⭕🙅‍♂️✔🧓📅。",
+        "chinese": "這是個好問題。也許這還不是老年。",
+        "id": 4255,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "非常抱歉",
+        "emoji": "🙇‍♂️",
+        "id": 1672,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨🏮🎉📍⭕🈚🚶🌊🔲⛽♾",
+        "chinese": "她喜歡在周末去海邊游泳",
+        "id": 2950,
+        "type": "algorithm"
+    },
+    {
+        "id": 1481,
+        "chinese": "你不想那樣做。",
+        "emoji": "🚫💡🏫",
+        "type": "gpt"
+    },
+    {
+        "id": 3898,
+        "chinese": "毫無疑問。",
+        "emoji": "👍",
+        "type": "gpt"
+    },
+    {
+        "id": 148,
+        "chinese": "你投給誰？",
+        "emoji": "🗳️👤❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🀂🏫🦷🐟👿📄👤。🙋‍♂️👿😀🇮🇹👩‍🏫🤟。",
+        "chinese": "西班牙語很簡單。我很樂意教你。",
+        "id": 2916,
+        "type": "algorithm"
+    },
+    {
+        "id": 3212,
+        "chinese": "我討厭刷牙。",
+        "emoji": "🦷👎",
+        "type": "gpt"
+    },
+    {
+        "id": 4212,
+        "chinese": "你知道你做了什麼。",
+        "emoji": "🚶‍♂️🔍👍",
+        "type": "gpt"
+    },
+    {
+        "id": 4613,
+        "chinese": "沒關係。她知道我愛她。",
+        "emoji": "❌🤷‍♂️👧💭💖",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🦹👓🈚🈶。",
+        "chinese": "我最近沒有。",
+        "id": 2099,
+        "type": "algorithm"
+    },
+    {
+        "id": 1465,
+        "chinese": "我不敢相信天氣有多熱。",
+        "emoji": "😱🌞🔥",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🏮🎉👁🪨🏍👥🛩🉐⚡🎞？",
+        "chinese": "喜歡看什麼類型的電影？",
+        "id": 2842,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟👁➡👉🕊🆕🍜🕳🉐🚺🧑🐦🐎？",
+        "chinese": "你看到那個新面孔的女人了嗎？",
+        "id": 894,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🐵😪🏹🧠🌧，✔1️⃣💺♍🚺👨‍🍳🉐🔆⭐。",
+        "chinese": "他叫張智霖，是一位處女座的明星。",
+        "id": 3782,
+        "type": "algorithm"
+    },
+    {
+        "id": 667,
+        "chinese": "是的，我去了。你去了嗎？",
+        "emoji": "✅🎥🍿❓🚶‍♂️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✔🉐，👩🖐🎂 6 🦅📏，🏟🀄 200 ⚖，⬛⚖，👲✍️ 30 🌾。",
+        "chinese": "是的，他身高 6 英尺，體重 200 磅，黑髮，大約 30 歲。",
+        "id": 2651,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🉑🙋‍♂️⭕🏊🗺🌐。",
+        "chinese": "你可以環遊世界。",
+        "id": 3670,
+        "type": "algorithm"
+    },
+    {
+        "id": 1779,
+        "chinese": "當他舔嘴唇的時候，你知道他有一手好手嗎？",
+        "emoji": "👀💋👌🤲",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👍❔，🐵🉑💪🤝📍🗓🌥🌃🔢⏲⏪🤲🙋‍♂️👉🙇。",
+        "chinese": "好吧，她可能會在今天晚些時候給我邀請。",
+        "id": 472,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙅‍♂️，🙋‍♂️🚪👩‍🏫🧪🏠👬1️⃣📓🐘🔣▪。",
+        "chinese": "不，我們教室裡有一本大字典。",
+        "id": 4544,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟📍🏠🍜🔍🐦⏲❔？",
+        "chinese": "你在裡面放了什麼？",
+        "id": 1984,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪📆🕊🗣🉐💸💴👍🤝☀️🌲。",
+        "chinese": "我們每個月的付款將會太高。",
+        "id": 2585,
+        "type": "algorithm"
+    },
+    {
+        "id": 2955,
+        "chinese": "吸煙者認為自己很酷。",
+        "emoji": "🚬🧑🤔🕶️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🧣🌥⬆👨‍🎓🐦。🤟✔❌？",
+        "chinese": "我今天上學了。你是否？",
+        "id": 3562,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🚾🙋‍♂️？👉✔🎫🐎？",
+        "chinese": "所以？那是票嗎？",
+        "id": 276,
+        "type": "algorithm"
+    },
+    {
+        "id": 495,
+        "chinese": "我會用濕布。",
+        "emoji": "🧽💧👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🎵😀🍃⬆🌎⏱🏟⌚👁👿🏙️✊",
+        "chinese": "音樂節上的現場表演很震撼",
+        "id": 1602,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "➖🦒❗🙏🤟，✔👀☀️👍🐦。",
+        "chinese": "非常感謝你，你真是太好了。",
+        "id": 3957,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "➕🏠🗣🙋‍♂️🚪🈚🈶🔟❔👍😟❤️🉐。",
+        "chinese": "政府說我們沒有什麼好擔心的。",
+        "id": 2497,
+        "type": "algorithm"
+    },
+    {
+        "id": 2682,
+        "chinese": "壓力會為不同的人帶來不同的問題。",
+        "emoji": "🧑🤯🤔💼👩‍⚕️👨‍💼🤕",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟📍🍻🔟❔？",
+        "chinese": "你在幹什麼？",
+        "id": 4626,
+        "type": "algorithm"
+    },
+    {
+        "id": 655,
+        "chinese": "他們不是每天晚上都打掃公車嗎？",
+        "emoji": "👥❌🌃🧹🚌❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👉🚶，🈁🕊📛🔣🔙🉑❕，🙋‍♂️⏪🍜🉑🙋‍♂️🚶👁",
+        "chinese": "那行，這個名字還可以，我後面可以去看看",
+        "id": 4462,
+        "type": "algorithm"
+    },
+    {
+        "id": 2012,
+        "chinese": "所有的電視台都將轉向數位化。",
+        "emoji": "📺📡🔀💻",
+        "type": "gpt"
+    },
+    {
+        "id": 1416,
+        "chinese": "如果他的妻子不介意，你也不應該介意。",
+        "emoji": "👩‍❤️‍👨🤔👩‍💼",
+        "type": "gpt"
+    },
+    {
+        "id": 4417,
+        "chinese": "當然是這樣。為什麼在碾過兩個人之後就停下來？",
+        "emoji": "✅🏀❓🚫👥",
+        "type": "gpt"
+    },
+    {
+        "chinese": "我生病了，需要吃藥",
+        "emoji": "🤒💊",
+        "id": 2047,
+        "type": "gpt"
+    },
+    {
+        "id": 4180,
+        "chinese": "它有多大？",
+        "emoji": "🐘📏",
+        "type": "gpt"
+    },
+    {
+        "id": 2877,
+        "chinese": "哦。這不好。",
+        "emoji": "🙁❌👍",
+        "type": "gpt"
+    },
+    {
+        "id": 2157,
+        "chinese": "忘了它。高爾夫聽起來更像是工作而不是樂趣。",
+        "emoji": "🏌️‍♂️🤔🏢🚫",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👀📦。🙋‍♂️🤝💰👩🚡🈶🉐CD。",
+        "chinese": "是的。我會買她所有的CD。",
+        "id": 4128,
+        "type": "algorithm"
+    },
+    {
+        "id": 345,
+        "chinese": "只有你？",
+        "emoji": "👤❓✨",
+        "type": "gpt"
+    },
+    {
+        "id": 3761,
+        "chinese": "我想這只是海拔的變化。",
+        "emoji": "🏔️🔄",
+        "type": "gpt"
+    },
+    {
+        "id": 2875,
+        "chinese": "他大約 50% 的時間都在旅行。",
+        "emoji": "👨‍🎤🌍50%✈️",
+        "type": "gpt"
+    },
+    {
+        "id": 2297,
+        "chinese": "只有一美元？甚至不用尋找它。",
+        "emoji": "💲🔍❌",
+        "type": "gpt"
+    },
+    {
+        "id": 2887,
+        "chinese": "是的，這很愉快。",
+        "emoji": "😄👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "1️⃣🕊🧳🏊🍃🪦🔗🆘📜1️⃣🕊🧳🏊🦸‍♂️👀。",
+        "chinese": "一個旅遊節目接著另一個旅遊節目。",
+        "id": 3193,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✊✔🌐🔝🧶🎂🉐。",
+        "chinese": "全世界最糟糕的。",
+        "id": 616,
+        "type": "algorithm"
+    },
+    {
+        "id": 4492,
+        "chinese": "你喜歡下雨嗎？",
+        "emoji": "👂💧🌧️🤔👍❓",
+        "type": "gpt"
+    },
+    {
+        "id": 4381,
+        "chinese": "我們需要存多少錢？",
+        "emoji": "🏦💰❓",
+        "type": "gpt"
+    },
+    {
+        "id": 436,
+        "chinese": "你有看過新來的女孩嗎？",
+        "emoji": "🚶‍♀️🆕👀👧❓",
+        "type": "gpt"
+    },
+    {
+        "id": 685,
+        "chinese": "有時排隊慢可能是件好事。",
+        "emoji": "⌛👍🚶‍♂️🤔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙅‍♂️。👨👿🌊，↪🕶🈶🧪👨‍🎓☯🦅。",
+        "chinese": "不。他很好，但沒有化學反應。",
+        "id": 3632,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨🏻‍⚕️🏑🌲🎤，1️⃣樽⏩🍺。",
+        "chinese": "一曲高歌，一樽前酒。",
+        "id": 4470,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👉✔🙋‍♂️🔝🏮🎉🉐📕。",
+        "chinese": "那是我最喜歡的課。",
+        "id": 226,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🧍➡，🙋‍♂️🉐1️⃣🕊👬🈶👅👄唇。",
+        "chinese": "例如，我的一個朋友舔嘴唇。",
+        "id": 890,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🏙🀄💴🉐🐘🔗⬆🧑📨🧑⏭，☀🌟🏴‍☠️。👨‍💼🏬🎁👁🉑🏋👨‍👩‍👧‍👦，🔗👤🇮🇹🧑📍⌚👁，☕✈🏟🔽💺🈚🈳💺，🛣🔲🉐🐤😋🏖💰🏐✍🦒✔。🈁✔1️⃣🕊🔌🈵🐣💪🉐🏙📣🐣🏟🏞。",
+        "chinese": "市中心的大街上人來人往，熙熙攘攘。商店裡顧客眾多，街頭藝人在表演，咖啡館內座無虛席，路邊的小吃攤前排著長隊。這是一個充滿活力的城市生活場景。",
+        "id": 4448,
+        "type": "algorithm"
+    },
+    {
+        "id": 2175,
+        "chinese": "是的，我想他做到了。",
+        "emoji": "✅🤔👍🎥",
+        "type": "gpt"
+    },
+    {
+        "chinese": "學校的音樂節目很受學生喜愛",
+        "emoji": "🏫🎶👫❤️",
+        "id": 4645,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨🚪👨‍👩‍👧‍👦1️⃣💰？",
+        "chinese": "他們多少錢？",
+        "id": 2030,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🔔🙋‍♂️🫴👉🔟❔🀀🀂🉐⏲⌛。",
+        "chinese": "當我需要什麼東西的時候。",
+        "id": 2484,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🛀🎉👍👁🖥。",
+        "chinese": "我喜歡好故事。",
+        "id": 1040,
+        "type": "algorithm"
+    },
+    {
+        "id": 4160,
+        "chinese": "我在一元商店買的。",
+        "emoji": "💲🏪",
+        "type": "gpt"
+    },
+    {
+        "chinese": "誰呀，快說。",
+        "emoji": "❓👤",
+        "id": 2017,
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨👿🉑❤。",
+        "chinese": "她很可愛。",
+        "id": 2775,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙏。🙋‍♂️🌅🔢🔟⌛📍🤕⚡🀅⏱🐦🈁👥🌸👞。",
+        "chinese": "謝謝。我早些時候在商店發現了這雙新鞋。",
+        "id": 3019,
+        "type": "algorithm"
+    },
+    {
+        "id": 3057,
+        "chinese": "那家旅館很糟糕。",
+        "emoji": "🏨😣👎",
+        "type": "gpt"
+    },
+    {
+        "id": 1432,
+        "chinese": "不。電影明星給他錢來幫助無家可歸的人。",
+        "emoji": "❌🌃💰🤝🙏",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙅‍♂️，🙋‍♂️📜✔🉐。",
+        "chinese": "不，我認真的。",
+        "id": 1352,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "📍🈁🤥👨‍⚖️⛽🉐🌾🐗⬆，👨🏼‍🌾👨‍🌾🚪❤🐝🌎👨‍🌾👨‍🍳🆘，🏗⏳✍🌾📻🉐🥉🍃。",
+        "chinese": "在這片綠油油的田野上，農民們辛勤地耕作著，期待著豐收的季節。",
+        "id": 612,
+        "type": "algorithm"
+    },
+    {
+        "id": 4459,
+        "chinese": "再見。",
+        "emoji": "👋",
+        "type": "gpt"
+    },
+    {
+        "id": 2427,
+        "chinese": "“順其自然”怎麼樣？",
+        "emoji": "🌿🌊🤔👍",
+        "type": "gpt"
+    },
+    {
+        "id": 3040,
+        "chinese": "和你聊天也很高興。",
+        "emoji": "😊🎉🗣️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "✍👉📝🔟❔？",
+        "chinese": "你要做什麼？",
+        "id": 3311,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✋⬅🏒👊👩🕊🎺🔣，🔥⌛🏒👊🪨🕊👍🔣，🔥⌛📍🏒👊🔟🕊👍🔣。",
+        "chinese": "首先撥打七個號碼，然後撥打十個號碼，然後再撥打十個號碼。",
+        "id": 3506,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🏃➡☀️👨‍👩‍👧‍👦🧪🥚🐦。",
+        "chinese": "我遇到太多混蛋了。",
+        "id": 2007,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我們這裡有各種品牌的化妝品",
+        "emoji": "💄🌈🏷️",
+        "id": 969,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟👶🈶🙏👩👨‍🔧💪🐎？",
+        "chinese": "你還有其他技能嗎？",
+        "id": 2341,
+        "type": "algorithm"
+    },
+    {
+        "id": 4092,
+        "chinese": "我熱死了。",
+        "emoji": "🔥🤒",
+        "type": "gpt"
+    },
+    {
+        "id": 277,
+        "chinese": "好吧，沒有人這樣做，那我為什麼要這樣做呢？",
+        "emoji": "🤷‍♂️❌👤🚫💭🤔",
+        "type": "gpt"
+    },
+    {
+        "id": 3912,
+        "chinese": "因為它有很棒的老師。",
+        "emoji": "👨‍🏫👍🏫💡",
+        "type": "gpt"
+    },
+    {
+        "id": 218,
+        "chinese": "我的意思是，把你的物品放在你身邊。",
+        "emoji": "👜👈🚶‍♀️",
+        "type": "gpt"
+    },
+    {
+        "id": 526,
+        "chinese": "產品出了什麼問題？",
+        "emoji": "🛠️❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🙅‍♂️✔🈶🐘✍️5️⃣🕊❔🔪🤖🐎？",
+        "chinese": "我們不是有大約五個磨刀器嗎？",
+        "id": 737,
+        "type": "algorithm"
+    },
+    {
+        "id": 2400,
+        "chinese": "我想知道是否有什麼工作是你不一遍又一遍地重複的。",
+        "emoji": "❓🔄🏢🗣️",
+        "type": "gpt"
+    },
+    {
+        "id": 2146,
+        "chinese": "當然是罪犯。",
+        "emoji": "👮‍♂️🚓🔒🧑‍🏫",
+        "type": "gpt"
+    },
+    {
+        "id": 1474,
+        "chinese": "他們在不同的世界。",
+        "emoji": "👫🌍❌",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈁🏠🛫📨🗿✔1️⃣📊😴🤔🉐♂📝。",
+        "chinese": "這聽起來像是一份夢想的工作。",
+        "id": 128,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇳，🤔🛫📨🐦，👽🇺🇳🧑📛🔣🏙☀️🦒。",
+        "chinese": "嗯，想起來了，外國人名字都太長。",
+        "id": 574,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🚶🐦1️⃣➕🙅‍♂️❌🉐🍽🏠。",
+        "chinese": "我們去了一家不錯的餐廳。",
+        "id": 4379,
+        "type": "algorithm"
+    },
+    {
+        "id": 788,
+        "chinese": "我調高了音量。",
+        "emoji": "🔊👆",
+        "type": "gpt"
+    },
+    {
+        "id": 4463,
+        "chinese": "哦，看。這是上面的小貼紙。它被稱為粉紅色肚臍。",
+        "emoji": "📌👁️👆🌸",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👊👐💡。",
+        "chinese": "打開燈。",
+        "id": 1304,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "➡🔟❔🙅‍♂️？",
+        "chinese": "為什麼不？",
+        "id": 4325,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨🉐👄🐝👨‍🎤🎷👵🛍👨‍👩‍👧‍👦❗👋",
+        "chinese": "他的口琴演奏讓大家感動",
+        "id": 1749,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇿👉🤟🔙💰🤲🐵🚪。",
+        "chinese": "只要你還錢給他們。",
+        "id": 1902,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🔙🤓☯❓？",
+        "chinese": "你還知道誰？",
+        "id": 398,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "知之者不如好之者，好之者不如樂之者",
+        "emoji": "🤔🧑<❤️🧑<😃🧑",
+        "id": 1073,
+        "type": "gpt"
+    },
+    {
+        "chinese": "消防員駕駛消防車救火",
+        "emoji": "🧑‍🚒🚒🏠",
+        "id": 1910,
+        "type": "gpt"
+    },
+    {
+        "id": 4259,
+        "chinese": "我搖了搖頭。沒有墨水了。",
+        "emoji": "🚫💡💭",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🦑7️⃣✔📍🈁🤱🔥🌭🉐1️⃣🌥。",
+        "chinese": "尤其是在這樣炎熱的一天。",
+        "id": 63,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🤔🚶🌅🔟❔。",
+        "chinese": "我想不出什麼。",
+        "id": 2107,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🚾🙋‍♂️❔？👨🚪🔙📺👐🚗🚶🐦。",
+        "chinese": "所以呢？他們還是開車走了。",
+        "id": 4584,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👨👍🎀💐⚔🤼‍♂️。",
+        "chinese": "他將結束戰爭。",
+        "id": 272,
+        "type": "algorithm"
+    },
+    {
+        "id": 2410,
+        "chinese": "我的購物車裡有兩個菠蘿，她問我在哪裡找到它們的。",
+        "emoji": "🛒🍍🍍👩‍🔎🤔",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️➕👋📰⛩🔎🏹📝。",
+        "chinese": "我正在報社找工作。",
+        "id": 47,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "無可替代的角色有哪些。",
+        "emoji": "🔝🎭❓",
+        "id": 2919,
+        "type": "gpt"
+    },
+    {
+        "id": 998,
+        "chinese": "那是很多錢。",
+        "emoji": "💰",
+        "type": "gpt"
+    },
+    {
+        "chinese": "金玉滿堂",
+        "emoji": "🏆💰🏠",
+        "id": 1911,
+        "type": "gpt"
+    },
+    {
+        "id": 1953,
+        "chinese": "不要挖鼻孔。",
+        "emoji": "🚫👃❌",
+        "type": "gpt"
+    },
+    {
+        "id": 1328,
+        "chinese": "我要去pcc",
+        "emoji": "🏫📚👀",
+        "type": "gpt"
+    },
+    {
+        "id": 4232,
+        "chinese": "不，我不需要轉換器，因為我買了數位電視。",
+        "emoji": "❌🔄💡📺",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🌇☀️🀂⬇，🎣👨‍🌾🚪📻🕸🔙📨，🈵🛻✍🎗🌊🉐🙏☝🈴🌾📻🉐🏮😀。",
+        "chinese": "夕陽西下，漁民們收網歸來，滿載著大海的恩賜和豐收的喜悅。",
+        "id": 2755,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "那我也去看看。",
+        "emoji": "👀🔍",
+        "id": 590,
+        "type": "gpt"
+    },
+    {
+        "id": 618,
+        "chinese": "它靠近山。",
+        "emoji": "🏠🏔️",
+        "type": "gpt"
+    },
+    {
+        "id": 3431,
+        "chinese": "你打電話給修理工了嗎？",
+        "emoji": "📞👷‍♂️🚧",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🏙🦒😰🙋‍♂️2,000🎫🤓👎🏆✌。",
+        "chinese": "市長僅以2,000票之差獲勝。",
+        "id": 2299,
+        "type": "algorithm"
+    },
+    {
+        "id": 3031,
+        "chinese": "這不太好。",
+        "emoji": "❌👎",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🔙🈚🈶🔎➡🧑❓🌎⬛。",
+        "chinese": "我還沒有找過任何地方。",
+        "id": 2059,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⬜❄️♂✝🇿🌱🧑🧍🔆⏏👤🤟👁1️⃣⬇，🤰👍👁🉐。",
+        "chinese": "白雪公主之矮人力量推薦你看一下，挺好看的。",
+        "id": 2048,
+        "type": "algorithm"
+    },
+    {
+        "id": 996,
+        "chinese": "但我停了下來！",
+        "emoji": "🚫🏃‍♂️",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🧱👍💩🐵🚪🔍👋💰👜🏠。",
+        "chinese": "你應該把它們放在錢包裡。",
+        "id": 717,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟👨‍🍳🔟❔🎖📝？",
+        "chinese": "你做什麼工作？",
+        "id": 2311,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🏮🎉⛷🔽📈🉐。",
+        "chinese": "我喜歡滑入基地。",
+        "id": 2284,
+        "type": "algorithm"
+    },
+    {
+        "id": 1588,
+        "chinese": "恩，那就對了。它確實變得無聊。",
+        "emoji": "👍💤📱🚫",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🆕🎂👶🏻🧒👤👨‍⚕️✍🚣🕊🉐🏢🏠🤓🔋",
+        "chinese": "新生嬰兒健康計劃獲得政府支持",
+        "id": 3264,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙅‍♂️🤓☯😦，✔❓😦？",
+        "chinese": "不知道哦，是誰哦？",
+        "id": 620,
+        "type": "algorithm"
+    },
+    {
+        "id": 117,
+        "chinese": "她大約有五英尺高。",
+        "emoji": "👩🔢5️⃣🦶",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔔🔥。🤟✔❌？",
+        "chinese": "當然。你是否？",
+        "id": 4033,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🔔🔥✔。",
+        "chinese": "我當然是。",
+        "id": 1723,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "💺🔚🎖📕⏪✍🉑❕👁⚡🖥。",
+        "chinese": "做完功課後你可以看電視。",
+        "id": 2893,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "我不同意",
+        "emoji": "👎",
+        "id": 4285,
+        "type": "gpt"
+    },
+    {
+        "id": 2239,
+        "chinese": "你在讀什麼？",
+        "emoji": "📖❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🈶1️⃣👥🤳🛫🌎👁😲。",
+        "chinese": "你有一雙美麗的眼睛。",
+        "id": 139,
+        "type": "algorithm"
+    },
+    {
+        "id": 1128,
+        "chinese": "另一個學生怎麼了？",
+        "emoji": "🆘👦❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🚶👁🏟🌅🏟⚡🎞❔。",
+        "chinese": "我們去看場早場電影吧。",
+        "id": 4565,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "👉🦸‍♂️👍🛐👿🈶🎠。",
+        "chinese": "那應該會很有趣。",
+        "id": 1263,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟💪👨‍🍳➡🐎？",
+        "chinese": "你能做到嗎？",
+        "id": 3891,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️🚪🉐🚩➡🦅👍🏠⏲❔🐏👶？",
+        "chinese": "我們的旗幟應該是什麼樣子？",
+        "id": 4320,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "⬆🍜❓⬇🍜🏙🈶🐟。",
+        "chinese": "上面和下面都有魚。",
+        "id": 3602,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🙋‍♂️👀🔎✔🉐，🤟❔？",
+        "chinese": "我是認真的，你呢？",
+        "id": 307,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "因為減稅可以為他們省錢。",
+        "emoji": "💰🔽💸🔽🗣️🔍",
+        "id": 81,
+        "type": "gpt"
+    },
+    {
+        "id": 1979,
+        "chinese": "也穿一件夾克。",
+        "emoji": "👚🧥",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👩🚪👋🙋‍♂️🚪🌎📏🔴⬆➕👍🐦🫴❌🧾🔧。",
+        "chinese": "他們在我們的帳單上添加了虛假費用。",
+        "id": 1345,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "但 5 月份將是 44 美分。",
+        "emoji": "📅5️⃣📬🎫💲0️⃣4️⃣4️⃣",
+        "id": 4303,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈚🔟❔，🤟❔？",
+        "chinese": "沒什麼，你呢？",
+        "id": 929,
+        "type": "algorithm"
+    },
+    {
+        "id": 4290,
+        "chinese": "我知道你不愛我。",
+        "emoji": "💔🚫❤️",
+        "type": "gpt"
+    },
+    {
+        "id": 1871,
+        "chinese": "有時。",
+        "emoji": "🕰️👍",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🤟🏊🎦🍦🐟🙋‍♂️。",
+        "chinese": "你永遠屬於我。",
+        "id": 2096,
+        "type": "algorithm"
+    },
+    {
+        "id": 2388,
+        "chinese": "他們用手指刷牙。",
+        "emoji": "👫🖐️🦷",
+        "type": "gpt"
+    },
+    {
+        "emoji": "📜❓🧑。🙋‍♂️🧔🏻💊🌧️🈁✋✏️🖊。",
+        "chinese": "任何人。我需要削這支鉛筆。",
+        "id": 4590,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🇿🧔🏻🏃🎂💐🎂🔍🔽🧂💧🀄🍲⛰💰🐣🧝💾🔜🉑。",
+        "chinese": "只需將生花生放入鹽水中煮至貝殼變軟即可。",
+        "id": 1388,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🀅📣🐦🔟❔🖥？",
+        "chinese": "發生了什麼事？",
+        "id": 799,
+        "type": "algorithm"
+    },
+    {
+        "chinese": "政府公布新的經濟改革計劃",
+        "emoji": "🏛️💼📈🌍",
+        "id": 879,
+        "type": "gpt"
+    },
+    {
+        "id": 1855,
+        "chinese": "我敢打賭他們當時正在喝酒。",
+        "emoji": "🔙🍺🤔👥",
+        "type": "gpt"
+    },
+    {
+        "id": 2823,
+        "chinese": "每天早上你起得很晚，然後很晚才去上班。",
+        "emoji": "🌞🛌🚶‍♂️🕒",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🙅‍♂️🔧✍🌥🐦，🗓🌥➕👍🉑🙋‍♂️🚶👁。",
+        "chinese": "不用改天了，今天正好可以去看。",
+        "id": 3437,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "🤟🗣🉐✔。🏰👫🚘🚗🙅‍♂️🤝📍🚶🌃🚶🚍。",
+        "chinese": "你說得對。公共汽車不會在深夜行駛。",
+        "id": 1657,
+        "type": "algorithm"
+    },
+    {
+        "id": 2981,
+        "chinese": "那也許我們最好8點15分出發？",
+        "emoji": "🕗🚗🏞️",
+        "type": "gpt"
+    },
+    {
+        "chinese": "他叫肖恩·康納利，是英國有名的演員。",
+        "emoji": "👨🇬🇧🎭",
+        "id": 3533,
+        "type": "gpt"
+    },
+    {
+        "emoji": "🔟❔🧓👊？",
+        "chinese": "什麼老公？",
+        "id": 1518,
+        "type": "algorithm"
+    },
+    {
+        "id": 2620,
+        "chinese": "我還是覺得不舒服。",
+        "emoji": "🤒🚫❤️",
+        "type": "gpt"
+    },
+    {
+        "id": 4597,
+        "chinese": "到目前為止我們所看到的只是幾隻蜥蜴。",
+        "emoji": "👀🦎🦎🦎",
+        "type": "gpt"
+    },
+    {
+        "id": 2734,
+        "chinese": "如果他們都在外面，那又怎樣？",
+        "emoji": "👫🌳🤔❓",
+        "type": "gpt"
+    },
+    {
+        "id": 905,
+        "chinese": "嗯，她有多高？",
+        "emoji": "🤔👩📏❓",
+        "type": "gpt"
+    },
+    {
+        "emoji": "👨📍🔝⌛👫🕳⏏🔽20🦸‍♂️📏⏏❗，🪑1️⃣🫒👍🖥📦🎂！",
+        "chinese": "他在最後一洞推入20英尺推桿，以一桿優勢獲勝！",
+        "id": 2233,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "✔🉐，↪✔👉✋🔴😍🉐🧑📍😉👁。",
+        "chinese": "是的，但是那隻紅色的手在眨眼。",
+        "id": 545,
+        "type": "algorithm"
+    },
+    {
+        "emoji": "➡🍏🤟💩💧🙃🔽🌊🦋🥃🀄，💧👩‍🔬🤝🏗🔽🏒🦋🥃🀄。",
+        "chinese": "如果你把水倒入玻璃杯中，水就會掉入玻璃杯中。",
+        "id": 678,
+        "type": "algorithm"
+    },
+    {
+        "id": 3082,
+        "chinese": "我的錯，我還有家事要做。",
+        "emoji": "🙇‍♂️🏠🧹🧽",
+        "type": "gpt"
+    },
+    {
+        "emoji": "🈁🫴😀1️⃣🔢⏲🚻。",
+        "chinese": "這需要一些時間。",
+        "id": 1421,
+        "type": "algorithm"
+    }
+]

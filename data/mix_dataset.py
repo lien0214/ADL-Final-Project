@@ -8,17 +8,18 @@ import json
 import random
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--gpt_percentage', type=float, default=0.3, help='percentage of gpt sentences (any value higher than 0.2 will use the whole gpt dataset)')
+parser.add_argument('--gpt_percentage', type=float, default=0.5, help='percentage of gpt sentences (any value higher than 0.2 will use the whole gpt dataset)')
 args = parser.parse_args()
 
 
-with open('data/algorithm_dataset.json', encoding='utf-8') as f:
+with open('algorithm_dataset.json', encoding='utf-8') as f:
     algorithm = json.load(f)
-with open('data/gpt_dataset.json', encoding='utf-8') as f:
+with open('gpt_dataset.json', encoding='utf-8') as f:
     gpt = json.load(f)
 
 total = len(algorithm)
-gpt_len = args.gpt_percentage * total
+gpt_percentage = args.gpt_percentage
+gpt_len = gpt_percentage * total
 gpt_len = min(int(gpt_len), len(gpt))
 gpt_index = [g['id'] for g in gpt]
 random.shuffle(gpt_index)
@@ -34,5 +35,5 @@ for i in range(total):
     else:
         dataset.append(algorithm[i])
         
-with open('data/mix_dataset.json', 'w', encoding='utf-8') as f:
+with open(f'mix_dataset_{gpt_percentage:.2f}.json', 'w', encoding='utf-8') as f:
     json.dump(dataset, f, ensure_ascii=False, indent=4)
