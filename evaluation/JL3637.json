@@ -1,0 +1,909 @@
+{
+    "name": "JL3637",
+    "emoji-gpt-to-chinese": [
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 8.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 9.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 8.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 9.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        }
+    ],
+    "emoji-algo-to-chinese": [
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 1.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 9.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 9.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        }
+    ],
+    "chinese-to-emoji": [
+        {
+            "score": 0.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 4.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 1.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 2.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 0.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 8.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 0.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 7.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 8.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 0.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 9.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "llama",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 6.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 6.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 2
+        },
+        {
+            "score": 4.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 7.0,
+            "model": "llama",
+            "data_type": "gpt",
+            "batch": 4
+        },
+        {
+            "score": 3.0,
+            "model": "mt5",
+            "data_type": "algo",
+            "batch": 4
+        },
+        {
+            "score": 5.0,
+            "model": "llama",
+            "data_type": "mix",
+            "batch": 8
+        },
+        {
+            "score": 0.0,
+            "model": "mt5",
+            "data_type": "mix",
+            "batch": 4
+        }
+    ]
+}
