@@ -9,20 +9,22 @@ def eval_chinese_to_emoji(data):
     references_gpt = []
     references_algo = []
     for d in data:
-        output = d['chinese_to_emoji'].replace(' ', '')
+        output = d['chinese-to-emoji'].replace(' ', '')
         emoji_gpt = d['emoji-gpt'].replace(' ', '')
         emoji_algo = d['emoji-algo'].replace(' ', '')
         predictions.append(output)
         references_gpt.append(emoji_gpt)
         references_algo.append(emoji_algo)
-    scores_gpt = meteor.compute(predictions, references_gpt)
-    scores_algo = meteor.compute(predictions, references_algo)
+        # r = meteor.compute(predictions=[output], references=[emoji_algo])
+        # print(r)
+    scores_gpt = meteor.compute(predictions=predictions, references=references_gpt)
+    scores_algo = meteor.compute(predictions=predictions,references=references_algo)
     together = [ a + b for a, b in zip(references_gpt, references_algo)]
-    scores_together = meteor.compute(predictions, together)
+    scores_together = meteor.compute(predictions=predictions, references=together)
     return {
-        "gpt": sum(scores_gpt)/len(scores_gpt),
-        "algo": sum(scores_algo)/len(scores_algo),
-        "together": sum(scores_together)/len(scores_together)
+        "gpt": scores_gpt['meteor'],
+        "algo": scores_algo['meteor'],
+        "together": scores_together['meteor']
     }
     
 
@@ -38,13 +40,12 @@ def eval_emoji_to_chinese(data):
         reference.append(chinese)
         predictions_gpt.append(gpt_chinese)
         predictions_algo.append(algo_chinese)
-    scores_gpt = meteor.compute(predictions_gpt, reference)
-    scores_algo = meteor.compute(predictions_algo, reference)
-    scores_together = [ (a + b)/2 for a, b in zip(scores_gpt, scores_algo)]
+    scores_gpt = meteor.compute(predictions=predictions_gpt, references=reference)
+    scores_algo = meteor.compute(predictions=predictions_algo, references=reference)
     return {
-        "gpt": sum(scores_gpt)/len(scores_gpt),
-        "algo": sum(scores_algo)/len(scores_algo),
-        "together": sum(scores_together)/len(scores_together)
+        "gpt": scores_gpt['meteor'],
+        "algo": scores_algo['meteor'],
+        "together": (scores_gpt['meteor'] + scores_algo['meteor']) / 2
     }
     
 
@@ -77,11 +78,13 @@ def main():
     if "chinese-to-emoji" in predictions[0]:
         r = eval_chinese_to_emoji(predictions)
         result["chinese-to-emoji"] = r
-    elif "emoji-algo-to-chinese" in predictions[0] and "emoji-gpt-to-chinese" in predictions[0]:
+    if "emoji-algo-to-chinese" in predictions[0] and "emoji-gpt-to-chinese" in predictions[0]:
         r = eval_emoji_to_chinese(predictions)
         result["emoji-to-chinese"] = r
     
     output_path = args.result_path
     with open(output_path, "w", encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
-        
+
+if __name__ == "__main__":
+    main()
